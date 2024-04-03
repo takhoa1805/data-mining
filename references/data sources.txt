@@ -1,0 +1,7 @@
+Source:
+- https://sol.sbc.org.br/index.php/eniac/article/view/12155
+- https://data.mendeley.com/datasets/3t9vbwxgr5/3
+
+Các nguồn tham khảo khác:
+- https://datasetsearch.research.google.com/search?src=3&vers=MTMyMjYzNTcxMTEwNzMwMjM4MA%3D%3D&query=versions%3AMusic%20Dataset%3A%20Lyrics%20and%20Metadata%20from%201950%20to%202019&docid=L2cvMTFxcXN0ZjNsNw%3D%3D
+
