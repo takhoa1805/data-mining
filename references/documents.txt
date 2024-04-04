@@ -1,0 +1,14 @@
+Data source:
+- https://sol.sbc.org.br/index.php/eniac/article/view/12155
+- https://data.mendeley.com/datasets/3t9vbwxgr5/3
+- https://dbs.uni-leipzig.de/research/projects/benchmark-datasets-for-entity-resolution
+
+Các nguồn tham khảo khác:
+- https://datasetsearch.research.google.com/search?src=3&vers=MTMyMjYzNTcxMTEwNzMwMjM4MA%3D%3D&query=versions%3AMusic%20Dataset%3A%20Lyrics%20and%20Metadata%20from%201950%20to%202019&docid=L2cvMTFxcXN0ZjNsNw%3D%3D
+
+
+Documentation:
+- https://github.com/anhaidgroup/py_entitymatching
+- https://anhaidgroup.github.io/py_entitymatching/v0.3.x/singlepage.html#document-index
+- https://github.com/ivan-bilan/Entity-Matching-Tutorial
+- https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md ==> DEEP MATHCER
