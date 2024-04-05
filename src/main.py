@@ -26,6 +26,12 @@ newB.columns = ['id', 'Song_Name', 'Artist_Name', 'Genre', 'Released']
 newA = newA.dropna()
 newB = newB.dropna()
 
+# CONVERT A TABLE COLUMNS TO LOWERCASE IF DATA IS STRNG TYPE
+newA['Song_Name'] = newA['Song_Name'].str.lower()
+newA['Artist_Name'] = newA['Artist_Name'].str.lower()
+newA['Genre'] = newA['Genre'].str.lower()
+
+
 
 # EVALUATE FILE SIZE
 print('Length tableA: ', len(newA))
@@ -43,8 +49,6 @@ em.set_key(newB, 'id')
 
 # DOWNSAMPLE FILES
 A1, B1 = em.down_sample(newA,newB,300,1,show_progress=True)
-print(A1.head(5))
-print(B1.head(5))
 print("File length after down sampling: ")
 print(len(A1))
 print(len(B1))
