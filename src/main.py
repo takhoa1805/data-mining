@@ -1,3 +1,5 @@
+import datetime
+from numpy import int64
 import py_entitymatching as em
 import pandas as pd
 import os, sys
@@ -20,6 +22,10 @@ newB = B[['id', 'track_name', 'artist_name', 'genre', 'release_date']]
 newA.columns = ['id', 'Song_Name', 'Artist_Name', 'Genre', 'Released']
 newB.columns = ['id', 'Song_Name', 'Artist_Name', 'Genre', 'Released']
 
+## Drop NA values
+newA = newA.dropna()
+newB = newB.dropna()
+
 
 # EVALUATE FILE SIZE
 print('Length tableA: ', len(newA))
@@ -34,8 +40,9 @@ print(newB.head(5))
 em.set_key(newA, 'id')
 em.set_key(newB, 'id')
 
+
 # DOWNSAMPLE FILES
-A1, B1 = em.down_sample(newA,newB,500,1,show_progress=True)
+A1, B1 = em.down_sample(newA,newB,300,1,show_progress=True)
 print(A1.head(5))
 print(B1.head(5))
 print("File length after down sampling: ")
@@ -45,11 +52,26 @@ print(len(B1))
 em.get_key(A1)
 em.get_key(B1)
 
+## sort the data by id
+A1 = A1.sort_values(by=['id'])
+B1 = B1.sort_values(by=['id'])
+
+
+## Convert A1 released time to year
+A1['Released'] = pd.to_datetime(A1['Released']).dt.year.astype(int64)
+
+
+
+print(A1.head(5))
+print(B1.head(5))
+
+
+
 
 ## export the downsampled file
-# os.makedirs('../newdata', exist_ok=True)
-# A1.to_csv('../newdata/tableA_downsampled.csv',index=False)
-# B1.to_csv('../newdata/tableB_downsampled.csv',index=False)
+os.makedirs('../newdata', exist_ok=True)
+A1.to_csv('../newdata/tableA_downsampled.csv',index=False)
+B1.to_csv('../newdata/tableB_downsampled.csv',index=False)
 
 
 # PROFILE DATA

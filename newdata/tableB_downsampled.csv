@@ -1,501 +1,301 @@
-track_name,artist_name,genre,release_date
-the black crow,songs: ohia,country,2000
-i can hear music,the beach boys,pop,1969
-i want to hold your hand,the supremes,pop,1964
-under my skin,jukebox the ghost,rock,2008
-out of touch,daryl hall & john oates,rock,1984
-why haven't i heard from you,reba mcentire,country,1994
-ticks & leeches,tool,rock,2001
-long distance,muddy waters,blues,1964
-thug story,black rob,hip hop,2017
-'bout time,louis armstrong,jazz,1968
-slow death,flamin' groovies,pop,1989
-i've seen better days,reba mcentire,country,1986
-pull my strings,dead kennedys,rock,1987
-boys nite out,krokus,blues,1984
-oblivion,mastodon,rock,2009
-keys to the castle,thee oh sees,blues,2017
-kiss you tonight,david nail,country,2014
-wondering,the hippy boys,reggae,1969
-i'll never be free,jean shepard,country,1959
-god bless saturday,kid rock,rock,2010
-bang bang (my baby shot me down),nancy sinatra,pop,1966
-one of us,abba,pop,1981
-my foolish heart,sadao watanabe,jazz,1969
-young girl sunday blues,jefferson airplane,blues,1967
-eye of the zombie,john fogerty,blues,1986
-if you ever have forever,ub40,reggae,2013
-"two track stereo, one track mind",slade,blues,1983
-f**k the haters,lil cuete,hip hop,2002
-you go to my head,oscar peterson,jazz,1952
-i know one (feat. emmylou harris),john prine,country,1999
-respectable,the rolling stones,rock,1978
-journey,black uhuru,reggae,1981
-the dream,the moody blues,pop,1969
-eyes of a child i,the moody blues,pop,1969
-pride & ambition,leroy smart,reggae,1972
-high on the hog,tommy castro,blues,1997
-kiss with a fist,florence + the machine,pop,2009
-jingle bell rock,daryl hall & john oates,rock,1983
-the other woman,jean shepard,country,1959
-foreigner's god,hozier,pop,2014
-the walk,the cure,rock,2001
-reminder,mumford & sons,rock,2012
-montezuma,fleet foxes,rock,2011
-keep me lifted,michael franti & spearhead,reggae,1997
-to love again,jonny lang,blues,2003
-the ballad of chasey lain,bloodhound gang,rock,2000
-natty never get weary,culture,reggae,1990
-that’s damn rock & roll,eric church,country,2014
-possession,sarah mclachlan,pop,1993
-i never go around mirrors,keith whitley,country,1988
-lay lady lay (feat. anthony hamilton & robert randolph),buddy guy,blues,2005
-sparks of the tempest,kansas,pop,1977
-all the diamonds in the world,bruce cockburn,country,1974
-dead joe,the birthday party,blues,1982
-three king fishers,donovan,pop,1966
-bite my tongue,you me at six,rock,2011
-you'll never walk alone,the righteous brothers,pop,1965
-pray for rain,walter trout,blues,2012
-down the line,ricky nelson,pop,1958
-count me in,lil yachty,hip hop,2018
-dirthouse,static-x,rock,2005
-all the way,journey,rock,2001
-scare him,the maytals,reggae,1969
-everybody wants to rule the world,tears for fears,pop,1985
-i love paris,etta jones,jazz,1960
-leaving the city,g. love & special sauce,reggae,1995
-love's gonna live here,buck owens,country,2010
-snatch it back and hold it,steve miller band,blues,2011
-chicken huntin',insane clown posse,rock,1995
-little games,the yardbirds,blues,1967
-"some other place, some other time",alabama,country,1980
-6 o'clock,george duke,jazz,1992
-my conversation,sly & robbie,reggae,1992
-walls (no. 3),tom petty and the heartbreakers,pop,1996
-don't forget me (when i'm gone),glass tiger,pop,1993
-nothing compares 2 u,sinéad o'connor,pop,1990
-except for you,conway twitty,country,1985
-reason,maze,jazz,1981
-alone with you,tevin campbell,pop,1991
-embraceable you,johnny mathis,pop,1959
-ole,the bouncing souls,pop,1999
-anything goes,tony bennett,jazz,1959
-i need you,new kids on the block,pop,1988
-blood on blood,bon jovi,rock,1988
-mickey mouse clubhouse theme,they might be giants,pop,2006
-time baby iii,medicine,pop,1994
-meet me on the corner,lindisfarne,pop,1971
-o valencia!,the decemberists,pop,2006
-the crutch,gil scott-heron,jazz,2011
-in limbo,radiohead,rock,2000
-chop chop,youngbloodz,hip hop,2019
-rich kid,billy squier,rock,1980
-money up,gorilla zoe,hip hop,2017
-black leather,guns n' roses,rock,1993
-when the sun goes down,gary clark jr.,blues,2014
-honky tonk healin',david ball,country,1994
-knees,bebe rexha,pop,2018
-black enough?,steel pulse,reggae,1997
-rainbow valley,love affair,pop,1968
-obfuscation,between the buried and me,jazz,2009
-rhiannon,stevie nicks,rock,2007
-south muzik,lil wayne,hip hop,2014
-fever,elvis presley,rock,1960
-the search,del shannon,pop,1961
-public syllogism,cafe jazz deluxe,jazz,2016
-keep me from cryin' today,merle haggard,country,1969
-you’re my days,wailing souls,reggae,1989
-the bitter suite iii: embrace,the dear hunter,jazz,2007
-definition,kruder & dorfmeister,jazz,1993
-solitude,dr. john,blues,2000
-the prayer,céline dion,pop,1998
-suitcase,badfinger,pop,1971
-time to move on,cross canadian ragweed,country,2001
-jah's reggae,pato banton,reggae,1989
-the sick bed of cuchulainn,the pogues,rock,1985
-blue letter,fleetwood mac,rock,1975
-i will wait,mumford & sons,rock,2012
-hater's get lost,j-kwon,hip hop,2009
-1993,emancipator,jazz,2015
-curly locks,"lee ""scratch"" perry",reggae,1996
-police & thieves,junior murvin,reggae,1977
-drug war,abstract rude,hip hop,2013
-summertime sadness (lana del rey vs. cedric gervais),lana del rey,pop,2013
-tribeca,kenny g,jazz,1983
-powerful,major lazer,pop,2015
-mandolin moon,sister hazel,pop,2006
-solitude,candlemass,rock,1986
-retro (rough),childish gambino,pop,2014
-for me and my gal,the chordettes,pop,1954
-m.e.,gary numan,pop,1979
-life gets away,clint black,country,1996
-i believe,tammy wynette,country,1964
-i'll always love you,tito nieves,jazz,2005
-tarzan of harlem,cab calloway,blues,1994
-hoop-dee-doo,perry como,jazz,1988
-give me just one night (una noche),98º,pop,2000
-night nurse,gregory isaacs,reggae,1982
-gangsta's fairytale 2,ice cube,pop,1992
-citizen radio,egypt central,rock,2014
-my lady's on fire,ty segall,blues,2018
-come back home,lebrado,blues,2005
-roll right stones,traffic,blues,1973
-baby love,pinchers,reggae,1987
-seven nation army,the white stripes,blues,2003
-ugly,violent femmes,pop,1983
-old timer,burning spear,reggae,1995
-escape,pete rock & c.l. smooth,jazz,1994
-what a day yesterday was,alan jackson,country,1998
-ain't that nothin',television,pop,1978
-alone,ty segall,blues,2010
-prehistoric dog,red fang,rock,2009
-amor del bueno,tito rojas,pop,1992
-alone,trampled by turtles,rock,2012
-hip hop misfits,dirty heads,reggae,2008
-pot roast and kisses,the reverend peyton's big damn band,blues,2015
-megalomaniac,kmfdm,rock,1997
-if i ever lose my faith in you,sting,rock,1993
-the jack,ac/dc,rock,1976
-rolling stone,the weeknd,pop,2012
-full control,shaggy,reggae,2002
-wishing well,terence trent d'arby,pop,1987
-started,iggy azalea,pop,2019
-homelands,nitin sawhney,jazz,1999
-kiss no frog,lucky dube,reggae,2012
-i'm the toughest,cocoa tea,reggae,1987
-what i'm becoming,cage the elephant,blues,2019
-teach me tonight,blossom dearie,jazz,1958
-"""b"" movie box car blues",the blues brothers,blues,1978
-as long as i live,neil sedaka,pop,1959
-it keeps right on a-hurtin',johnny tillotson,pop,1962
-prayer of the refugee,rise against,pop,2006
-this what i call her,lil wayne,hip hop,2014
-sweet sweet surrender,"beck, bogert, appice",blues,1973
-everything reminds me of her,elliott smith,pop,2000
-c'est si bon,eartha kitt,jazz,1956
-no walls no ceilings no floors,barbara mandrell,country,1978
-holdin',diamond rio,country,1991
-beatophone,caravan palace,jazz,2012
-wastin' my time,eagles of death metal,blues,2004
-punta del soul,dave grusin,jazz,1989
-delta dawn,waylon jennings,country,1972
-stress,godsmack,rock,1998
-b boys,umut ertek,hip hop,2004
-a few old memories,dolly parton,country,1999
-seduction,usher,pop,2004
-where ya at,future,pop,2015
-i'm comin' out,shovels & rope,blues,2019
-woman tonight,america,country,1972
-keep you much longer,akon,pop,2008
-i'm gonna lock my heart (and throw away the key),carmen mcrae,jazz,1962
-mini bus,barrington levy,reggae,1990
-run,hozier,pop,2014
-i remember me,silver jews,country,2001
-beat the time,edie brickell & new bohemians,pop,1988
-the song is over,the who,rock,1971
-the show must go on,three dog night,pop,1982
-big five,prince buster,reggae,1972
-the e.n.d.,the pharcyde,jazz,1995
-rosetta stoned,tool,rock,2006
-world on fire (with slightly stoopid),stick figure,reggae,2018
-antichrist superstar,marilyn manson,rock,1996
-holiday / boulevard of broken dreams,green day,pop,2004
-hard times,eric clapton,blues,1989
-better as a memory,kenny chesney,country,2007
-rockawhile,keith richards,blues,1988
-take me over,cut copy,rock,2011
-lone star state of mind,don williams,country,1992
-alone again (naturally),diana krall,jazz,2014
-melt,siouxsie and the banshees,pop,1982
-long time gone,darrell scott,country,2005
-son of a preacher man,ike & tina turner,pop,1970
-you and the music,donald byrd,jazz,1975
-magnificent sanctuary band,susan tedeschi,blues,2005
-sgt. pepper's lonely hearts club band,the beatles,rock,1967
-do it to it,cherish,pop,2006
-pearl necklace,zz top,blues,1981
-"oh, lonesome me",neil young,rock,1970
-powerman,the kinks,rock,1970
-stones,sonic youth,blues,2004
-mysterious vibes,the blackbyrds,jazz,1994
-slave,elton john,rock,1972
-wrote a song for everyone,creedence clearwater revival,rock,1969
-good god,korn,rock,1996
-suite-pee,system of a down,rock,1998
-three times a lady,kenny rogers,country,2012
-"william, it was really nothing",the smiths,rock,1984
-hey good lookin',the mavericks,country,1992
-just a taste,richard elliot,jazz,2011
-g.i. jive,louis jordan & his tympany five,blues,1992
-the answer to our life,backstreet boys,pop,2000
-there's a brain in my head,white denim,blues,2016
-i was there,krs-one,hip hop,2007
-i wish i knew,sonny james,country,1957
-sun touch,herbie hancock,jazz,1975
-tears don't fall no more,lonnie johnson,blues,1993
-sweet sensation,ub40,reggae,1983
-it's always something,seedless,reggae,2016
-passionate kisses,mary chapin carpenter,country,1989
-promises,macka b,reggae,1993
-'round midnight,art pepper,jazz,1959
-blood and fire,ub40,reggae,1998
-stand up and fight,maxi priest,reggae,1985
-verse 8,jah shaka,reggae,1982
-never known,the durutti column,pop,1981
-sunshine of your love,cream,blues,1967
-bass,macka b,reggae,1992
-song to sing when i'm lonely,john frusciante,rock,2004
-everglades,the kingston trio,rock,1960
-all the joy,moonchild,jazz,2015
-(that's what you get) for lovin' me,waylon jennings,country,1966
-crawling king snake,the doors,rock,1971
-harassment,steel pulse,reggae,1980
-settin' the woods on fire,hank williams,country,1978
-dawn: dawn is a feeling,the moody blues,pop,1967
-casual,hieroglyphics,jazz,1998
-when the stars go blue,ryan adams,pop,2001
-why should i be lonely,lefty frizzell,country,1957
-so in love,orchestral manoeuvres in the dark,pop,1985
-sweet little you,neil sedaka,pop,1960
-wash away,stone senses,reggae,2006
-native,pacific dub,reggae,2009
-sickman,alice in chains,rock,1992
-tempo and swing,lionel hampton,jazz,2014
-thing for your girlfriend,"royce da 5'9""",hip hop,2009
-it's tricky,run–d.m.c.,hip hop,2019
-changeling,dj shadow,jazz,1996
-after the rain,bruce cockburn,country,1979
-better off dead,wipers,blues,1979
-how many times?,insane clown posse,rock,1997
-sing about it,the wood brothers,blues,2013
-a salty salute,guided by voices,pop,1995
-disconnected,rjd2,jazz,2006
-後來,rene liu,pop,2000
-take the money and run,gerry rafferty,country,1979
-give a little more,maroon 5,pop,2010
-reminisce,mary j. blige,pop,1992
-"beat me daddy, eight to the bar",commander cody and his lost planet airmen,country,1971
-fool,frankie cosmos,rock,2016
-what a crying shame,the mavericks,country,1994
-brown to blue,george jones,country,1965
-rock on,funkdoobiest,hip hop,2019
-as the years go passing by,santana,blues,1997
-the colour of my love,céline dion,pop,1993
-love bites,def leppard,rock,1987
-marry the night,lady gaga,pop,2011
-i just want to look at you one more time,merle haggard,country,1969
-who do you love (feat. ronnie hawkins),the band,country,2002
-american pride,alabama,country,1992
-two doors down,dwight yoakam,country,1993
-up for the down stroke,parliament,rock,1974
-hurricane,halsey,pop,2015
-fall,clay walker,country,2007
-how can you,luciano,reggae,1996
-smoke my herbz,sizzla,reggae,2011
-bullion,millencolin,pop,1996
-i took a memory to lunch,bobby bare,country,1970
-i can't help it (if i'm still in love with you),ricky nelson,pop,1959
-honey i love you,ashford & simpson,jazz,1984
-baby come rock,wailing souls,reggae,1987
-i'll never be the same,ella fitzgerald,blues,1959
-there stands the glass,willie nelson,country,1982
-babylon is falling,slightly stoopid,reggae,2005
-i go crazy,will downing,jazz,1991
-laughing on the outside,aretha franklin,blues,1963
-sometimes i get lucky and forget,gene watson,country,1968
-this broken heart,the mavericks,country,1992
-reasons i cheat,randy travis,country,1986
-open arms,collin raye,country,1991
-folkin' around,panic! at the disco,pop,2008
-nightshift,commodores,rock,1985
-somewhere,leon ware,jazz,1982
-my blue eyed jane,hank locklin,country,1966
-graveyard people,traffic,blues,1974
-groundhog's day,primus,rock,1990
-that's how i escaped my certain fate,mission of burma,pop,1982
-no swallerin' place,june carter cash,country,1952
-pistol made of bones,the arcs,blues,2015
-when the swallows come back to capistrano,michael hurley,country,1971
-angel of death,slayer,rock,1986
-american tune,allen toussaint,blues,2016
-the okie from muskogee's comin' home,merle haggard,country,1981
-anagram,young the giant,rock,2014
-beatbox,crazy p,jazz,2013
-tommy can you hear me?,the who,rock,1969
-buy my own drinks,runaway june,pop,2019
-ill vibe (feat. q-tip),busta rhymes,pop,1996
-surrender,christafari,reggae,1999
-broadway hotel,al stewart,pop,1976
-she will,lil wayne,pop,2011
-on the frontier,renaissance,jazz,1973
-halfway to jackson,justin townes earle,blues,2009
-i'm free (heaven helps the man ),kenny loggins,pop,1984
-heartbreaker,musical youth,reggae,1994
-good vibration,the green,reggae,2011
-take the power back,rage against the machine,rock,1992
-partyman,prince,rock,1989
-i know,freddie roach,jazz,1963
-sweet summer lovin',dolly parton,country,1979
-brand name,mac miller,pop,2015
-don't you know,one drop,reggae,2008
-the healer,john lee hooker,blues,1998
-i like america & america likes me,the 1975,rock,2018
-wide open,jason aldean,country,2009
-1-2-3-4 (sumpin' new),coolio,pop,1995
-"sunshine, lollipops and rainbows",lesley gore,pop,1963
-since i fell for you,fontella bass,pop,1966
-where's da bud,three 6 mafia,pop,1997
-luv (sic) pt4 lastorder remix,nujabes,jazz,2015
-shame shame shame,ratt,rock,1990
-magic,kenny chesney,country,2005
-i can't help remembering you,dean martin,jazz,1967
-new day,abstract orchestra,jazz,2018
-i can see it (but i can't feel it),my bloody valentine,pop,1988
-my propeller,arctic monkeys,rock,2009
-foggy river,don gibson,country,1959
-kiss me quick,elvis presley,rock,1962
-needles and pins,smokie,pop,1977
-my first love,avant,pop,2000
-beatin' the odds,molly hatchet,country,1980
-heartaches,ruby and the romantics,blues,1963
-spanish eyes,al hirt,pop,1968
-naked girls falling down the stairs,the cramps,blues,1994
-living in the moment,jason mraz,rock,2012
-get silly,v.i.c.,hip hop,2017
-leggo mi hand,los cafres,reggae,1994
-main title / (i) get lost,eric clapton,blues,1999
-feel the groove,little feat,country,1979
-cassie,flyleaf,rock,2006
-please be patient with me,wilco,country,2007
-forever,drake,pop,2009
-it's funky enough,d.o.c.,hip hop,2015
-the smile has left your eyes,asia,rock,1983
-harness your hopes,pavement,pop,1997
-kinky love,pale saints,pop,1991
-the bottomless hole,the handsome family,country,2003
-got it good,justin moore,country,2016
-comin' to gitcha,michael franti & spearhead,reggae,1997
-like you that way,canaan smith,country,2017
-somebody pick up my pieces,anderson east,blues,2018
-when i give my love to you (with brenda russell),michael franks,jazz,1985
-candy (feat. trippie redd),machine gun kelly,pop,2019
-throw it in the bag,fabolous,pop,2009
-beyond games,tony williams,jazz,1969
-welcome to the jungle,guns n' roses,rock,1987
-drumming song,florence + the machine,pop,2009
-your cheatin' heart,fats domino,blues,1963
-ain't that peculiar,rufus,jazz,1983
-you on the run,the black angels,blues,2008
-i walk alone,willie nelson,country,1969
-gypsy woman,the uniques,reggae,1968
-take me away,ween,rock,1994
-broken bridges,lindsey haun,country,2006
-vacation,thomas rhett,country,2015
-i know a dream when i see one,dean martin,jazz,1952
-anyway,martina mcbride,country,2007
-st. alfonzo's pancake breakfast,frank zappa,jazz,1974
-the baddest man alive,the black keys,blues,2012
-railroad track,third world,reggae,1993
-it's real,real estate,pop,2011
-steppin stone,chapter 11,reggae,2009
-book of life,i wayne,reggae,2007
-be honest with me,jimmy dean,country,1963
-lost in the cold,twiddle,rock,2017
-ain't nothin' you can do,van morrison,pop,1974
-on the radio,emmylou harris,country,1983
-i know your heart,mel tormé,jazz,1964
-san jacinto,peter gabriel,pop,1982
-do you remember,blake shelton,country,2013
-vampire money,my chemical romance,pop,2010
-love of my life,frank zappa,jazz,1968
-i'll be loving you,the marshall tucker band,country,1978
-new blue,widespread panic,blues,2001
-with a little luck,wings,pop,1978
-drive to survive,jimmy thackery and the drivers,blues,1996
-cowboys don't shoot straight (like they used to),tammy wynette,country,1964
-money in the bank,john anderson,country,1993
-voices carry,'til tuesday,pop,1981
-through with women,t-bone walker,blues,1991
-restless sinner,black rebel motorcycle club,blues,2005
-the beauty of gray,live,pop,1991
-cold blooded,khalid,pop,2017
-"mash it to the youth man, mash it",musical youth,reggae,1994
-"vieni su (say you love me, too)",dean martin,jazz,1950
-either way,beta radio,pop,2010
-vox,sarah mclachlan,pop,1989
-this is my hip hop,la fossa,hip hop,2001
-it came upon a midnight clear,ella fitzgerald,blues,1967
-some other time,tony bennett,jazz,1975
-if you ever go,the partridge family,pop,1974
-i wonder,blind melon,pop,1992
-let's do it (let's fall in love),billie holiday,blues,1996
-just when i needed you,george jones,country,1964
-i can't believe she gives it all to me,conway twitty,country,1978
-world so corrupt,ziggy marley & the melody makers,reggae,1993
-bad,u2,rock,1984
-being sucked in again,wire,pop,1978
-mental revenge,linda ronstadt,country,1970
-get down (remix) [feat. q-tip],craig mack,hip hop,2005
-sky walker (feat. travis scott),miguel,pop,2017
-daft alchemist,dispatch,reggae,2018
-sex on fire,kings of leon,rock,2008
-rollin' & tumblin',eric clapton,blues,1992
-dearly departed,jelly roll,country,2017
-for the last time,rory gallagher,blues,1971
-a hole to hide in,foghat,blues,1972
-step along,culture,reggae,1991
-hear you me,jimmy eat world,pop,2001
-oj,jeezy,hip hop,2018
-sucker dj (i will survive),dimples d.,hip hop,2013
-stewball,robert earl keen,country,1988
-منك بخاف,rania,pop,1959
-that's when your heartaches begin,elvis presley,rock,1958
-the rain the park and other things,the cowsills,pop,1967
-童話,michael wong,pop,2006
-how long is forever,ray price,country,1964
-pineola,lucinda williams,country,1992
-bet your heart on me,johnny lee,country,1983
-unbroken,tim mcgraw,country,2001
-get the message,electronic,pop,1991
-i need lots of love,johnnie taylor,blues,1960
-long shot kick de bucket,the pioneers,reggae,1969
-ramblin' man,"hank williams, jr.",country,1981
-out from under,incubus,rock,1999
-dancehall stylee,sugar minott,reggae,1998
-back in your own back yard,brenda lee,pop,1959
-contrabando (contraband),rubén blades,jazz,1988
-swamp witch,jim stafford,pop,1974
-lets make a love song,casey donahew,country,2019
-abandoned luncheonette,daryl hall & john oates,rock,1973
-smile,judy garland,jazz,1964
-d.o.a.,van halen,rock,1979
-punch and judy,the cascades,pop,1963
-never an easy way,morcheeba,jazz,1996
-something about you,level 42,pop,1985
-high priestess,uriah heep,blues,1971
-rhyme writer,pete rock,jazz,2017
-leaning on the everlasting arms,alan jackson,country,2006
-open wounds,skillet,rock,2003
-"love, you didn't do right by me",peggy lee,jazz,1954
-move back to mississippi,anders osborne,blues,2016
-mr. loverman (feat. chevelle franklin),shabba ranks,reggae,1991
-after the fire is gone,freddy fender,pop,1975
-i'm falling,the j. geils band,blues,1982
-jah (live),lucky dube,reggae,1993
-fear of falling,the gregg allman band,country,1988
-aeroplane,björk,pop,1993
-sweet and easy to love,roy orbison,pop,1961
-true love,sizzla,reggae,2003
-until,dean martin,jazz,1952
-it ain't necessarily so,ella fitzgerald,blues,1958
-love is like an itching in my heart,the supremes,pop,1966
-running out of time,climax blues band,blues,1975
-springtime again,sun ra,jazz,2004
-honky tonk badonkadonk,trace adkins,country,2005
-"take me, i'm yours",michael henderson,jazz,2003
-straight shooter,molly hatchet,blues,1985
-muddy water,ocean alley,reggae,2015
-dozen roses & a six-pack,cole swindell,country,2014
-uptight good woman,solomon burke,blues,2000
-falling into you,céline dion,pop,1996
+id,Song_Name,Artist_Name,Genre,Released
+593,moon of gold,neil sedaka,pop,1959
+809,one way ticket,neil sedaka,pop,1959
+1513,true love,shelley fabares,pop,1962
+1528,ecstasy,ben e. king,pop,1962
+1666,she cried,jay & the americans,pop,1962
+1764,breakin' in a brand new broken heart,connie francis,pop,1963
+1887,get yourself another fool,sam cooke,pop,1963
+2612,april come she will,paul simon,pop,1965
+2674,for one moment,lee hazlewood,pop,1966
+2766,distant shores,chad & jeremy,pop,1966
+2834,bang bang (my baby shot me down),nancy sinatra,pop,1966
+3584,i just want to be your friend,the millennium,pop,1968
+3644,smiling phases,"blood, sweat & tears",pop,1968
+3708,i love my shirt,donovan,pop,1969
+4343,walk out in the rain,badfinger,pop,1970
+4390,tomorrow,wings,pop,1971
+4410,bring me coffee or tea,can,pop,1971
+6629,isn't it time,the babys,pop,1977
+6676,down the dolce vita,peter gabriel,pop,1977
+6991,days,television,pop,1978
+7084,accidents never happen,blondie,pop,1979
+7386,holiday,madonna,pop,1979
+7478,got to love somebody,sister sledge,pop,1980
+7752,los angeles,x,pop,1980
+7916,human touch,rick springfield,pop,1981
+7923,livin' in the limelight,peter cetera,pop,1981
+8122,cascade,siouxsie and the banshees,pop,1982
+8185,i love a man in a uniform,gang of four,pop,1982
+8607,words of wisdom,christopher cross,pop,1983
+8702,she works hard for the money,donna summer,pop,1983
+8850,amelia,cocteau twins,pop,1984
+9073,it's not the night,the cars,pop,1984
+9684,pink frost,the chills,pop,1986
+9905,like the weather,"10,000 maniacs",pop,1987
+10633,blood and fire,indigo girls,pop,1989
+10657,oh father,madonna,pop,1989
+10704,rockin' back inside my heart,julee cruise,pop,1989
+11013,put the message in the box,world party,pop,1990
+11759,goodnight song,tears for fears,pop,1993
+13081,my all,mariah carey,pop,1997
+13520,crash and burn,savage garden,pop,1999
+13766,duck and run,3 doors down,pop,2000
+13774,i believe in you,joe,pop,2000
+14295,crawling in the dark,hoobastank,pop,2001
+14437,sick of being lonely,field mob,pop,2002
+14790,the pros and cons of breathing,fall out boy,pop,2003
+15018,only u,ashanti,pop,2004
+15171,because of you,kelly clarkson,pop,2004
+15194,"i need a girlpt. 2 (feat. loon, ginuwine & mario winans)",diddy,pop,2004
+15195,oh,ciara,pop,2004
+15466,feeling good,michael bublé,pop,2005
+15784,prayer of the refugee,rise against,pop,2006
+15852,hurt,christina aguilera,pop,2006
+15997,suffocate,j. holiday,pop,2007
+16289,agoraphobia,deerhunter,pop,2008
+16825,if i had you,adam lambert,pop,2009
+17518,small bump,ed sheeran,pop,2011
+17519,don't you remember,adele,pop,2011
+17584,i wish,one direction,pop,2012
+17878,how many drinks?,miguel,pop,2012
+17921,watching movies,mac miller,pop,2013
+18045,everything is awesome!!! (feat. the lonely island),tegan and sara,pop,2013
+18166,#thatpower,will.i.am,pop,2013
+18199,midnight memories,one direction,pop,2013
+18276,one,ed sheeran,pop,2014
+18343,undo,sanna nielsen,pop,2014
+18491,work song,hozier,pop,2014
+18647,cold cold cold,cage the elephant,pop,2015
+18675,five more hours,deorro,pop,2015
+18793,youth,troye sivan,pop,2015
+18937,olivia,one direction,pop,2015
+19131,el hombre del equipo,grupo maximo grado,pop,2016
+19218,white iverson,post malone,pop,2016
+19822,love hurts (feat. travis scott),playboi carti,pop,2018
+20056,before i let go,beyoncé,pop,2019
+20916,danny boy,conway twitty,country,1959
+21081,maiden's prayer,bob wills,country,1960
+21215,i can't help it (if i'm still in love with you),marty robbins,country,1961
+21352,big city,wynn stewart,country,1962
+21597,leanin' on the old top rail,eddy arnold,country,1963
+21694,blue sand,marty robbins,country,1963
+22320,houston,bobby bare,country,1966
+22355,i love you because,willie nelson,country,1966
+22759,all my dreams blue,the youngbloods,country,1967
+22886,suffer in silence,willie nelson,country,1967
+23041,the other woman,loretta lynn,country,1968
+23228,ashamed,willie nelson,country,1968
+24246,deal,jerry garcia,country,1972
+26091,september song,willie nelson,country,1978
+26197,take the money and run,gerry rafferty,country,1979
+26436,leader of the band,dan fogelberg,country,1979
+26904,tennessee rose,emmylou harris,country,1981
+27752,today my world slipped away,vern gosdin,country,1983
+28096,if i'd been the one,38 special,country,1984
+28264,your love,dan seals,country,1985
+28284,as right now,alabama,country,1985
+28399,working in the coal mine,the judds,country,1985
+28597,bury me (feat. maria mckee),dwight yoakam,country,1986
+28759,honky tonk man,dwight yoakam,country,1986
+28964,the waltz you saved for me,john anderson,country,1987
+29113,take the long way home,john schneider,country,1987
+29391,i never go around mirrors,keith whitley,country,1988
+29620,wherever you are,mary chapin carpenter,country,1989
+29655,standing on shaky ground,delbert mcclinton,country,1989
+29821,haven't we lost enough?,"crosby, stills & nash",country,1990
+30891,heaven's just a sin away,kelly willis,country,1993
+30913,blue moon of kentucky,the kentucky headhunters,country,1993
+30941,splendid isolation,warren zevon,country,1993
+31723,watch me,lorrie morgan,country,1995
+31846,i fell in the water,john anderson,country,1996
+32252,my last name,keith urban,country,1997
+33513,because he lives,bill gaither,country,2001
+33645,ain't nothing 'bout you,brooks & dunn,country,2001
+33865,in my ears,mike mcclure,country,2002
+33895,a-11,daryle singletary,country,2002
+34346,what's left of me,rodney atkins,country,2003
+34633,let me hold you,stoney larue,country,2005
+34901,the world,brad paisley,country,2005
+35617,forever,john michael montgomery,country,2008
+35629,no love songs,chris cagle,country,2008
+36441,saving amy,brantley gilbert,country,2010
+36554,cold as stone,lady antebellum,country,2011
+36630,homegrown tomatoes,guy clark,country,2011
+37128,walking away,jason aldean,country,2012
+38786,dearly departed,jelly roll,country,2017
+38869,most people are good,luke bryan,country,2017
+39968,you go to my head,billie holiday,blues,1956
+40127,they can't take that away from me,billie holiday,blues,1957
+40326,you've changed,billie holiday,blues,1958
+40553,so rare,ella fitzgerald,blues,1959
+40611,am i blue,ray charles,blues,1959
+40705,isn't it a pity,ella fitzgerald,blues,1959
+41353,looking through a tear,aretha franklin,blues,1963
+41799,good golly miss molly,the sonics,blues,1965
+42049,shut up,the monks,blues,1966
+42169,who will be next,howlin' wolf,blues,1967
+42534,triad,jefferson airplane,blues,1968
+43211,long way to go,alice cooper,blues,1971
+43247,changes,j.j. cale,blues,1972
+43388,children of the revolution,t. rex,blues,1972
+44312,i never cry,alice cooper,blues,1976
+44765,and the mouse police never sleeps,jethro tull,blues,1978
+44822,death by drowning,the birthday party,blues,1979
+44936,music scene,the fall,blues,1979
+45127,model citizen,alice cooper,blues,1980
+45175,and further on,jethro tull,blues,1980
+45534,fats,thin lizzy,blues,1981
+45941,whippin' boy,nazareth,blues,1983
+46425,tangled in love,eric clapton,blues,1985
+46463,breaking out,santana,blues,1985
+46692,thrill my gorilla,alice cooper,blues,1986
+46803,"deeper, dig deeper",santana,blues,1987
+46969,del rio's song,blue öyster cult,blues,1988
+47293,big chief,the subdudes,blues,1989
+47601,"mr collins, mr collins",albert collins,blues,1991
+47857,hotel illness,the black crowes,blues,1992
+48266,these empty days,"crosby, stills & nash",blues,1994
+48562,river of deceit,mad season,blues,1995
+48982,hit the ground running,jonny lang,blues,1997
+50044,save yourself,jonny lang,blues,2003
+50189,not that social,the von bondies,blues,2004
+50437,just say goodbye,esther phillips,blues,2005
+50544,shuffle your feet,black rebel motorcycle club,blues,2005
+50627,goody goody,frankie lymon,blues,2005
+50869,friday night fish fry,mel waiters,blues,2006
+50997,your man,patrick sweany,blues,2007
+51212,tyrants,black mountain,blues,2008
+51583,judas,cage the elephant,blues,2009
+51604,nightmares,jay reatard,blues,2009
+51733,steal your heart away,joe bonamassa,blues,2010
+51965,little by little,gregg allman,blues,2011
+52014,japanese buffalo,cage the elephant,blues,2011
+52422,analog man,joe walsh,blues,2012
+52752,how many times,wolfmother,blues,2014
+53628,i pity the fool,tedeschi trucks band,blues,2017
+53629,blade of truth,j. roddy walston & the business,blues,2017
+53645,epic,shovels & rope,blues,2017
+53646,american dream,samantha fish,blues,2017
+54098,sentient oona,thee oh sees,blues,2018
+54357,mulligan's too,gerry mulligan,jazz,1951
+54632,embraceable you,sarah vaughan,jazz,1954
+54895,is it true what they say about dixie?,dean martin,jazz,1956
+54998,a man ain't supposed to cry,joe williams,jazz,1957
+55208,let it snow! let it snow! let it snow!,dean martin,jazz,1959
+55283,on the street where you live,doris day,jazz,1960
+55398,why don't you do right,julie london,jazz,1961
+56241,walking in space,quincy jones,jazz,1969
+56437,rose garden,andy williams,jazz,1971
+56671,falling grace,gary burton,jazz,1973
+56891,advance romance,frank zappa,jazz,1975
+57379,your wish is my command,eddie kendricks,jazz,1978
+57404,so won't you stay,the brothers johnson,jazz,1978
+57424,believe in yourself,lena horne,jazz,1978
+57524,quiet nights of quiet stars,joe pass,jazz,1979
+57526,walk on by,average white band,jazz,1979
+58120,thousand cranes,hiroshima,jazz,1983
+58154,tonight we escape (we make love),ashford & simpson,jazz,1984
+58261,love speaks louder than words,al jarreau,jazz,1984
+58284,19,paul hardcastle,jazz,1985
+58328,when she is mine,michael franks,jazz,1985
+58331,one night stand,kenny g,jazz,1985
+58487,"shoot high, aim low",yes,jazz,1987
+59298,my foolish heart,billy eckstine,jazz,1994
+59462,camouflage,boney james,jazz,1995
+59801,neurotica,meshuggah,jazz,1998
+59963,together again,dave koz,jazz,1999
+59994,the bright side,dave koz,jazz,1999
+60078,keep your worries,guru's jazzmatazz,jazz,2000
+60209,simple things,zero 7,jazz,2001
+60721,for once in my life,"harry connick, jr.",jazz,2004
+60790,redeemer,sola rosa,jazz,2005
+60828,good morning heartache,chris botti,jazz,2005
+61919,three portraits,yppah,jazz,2012
+61964,time to go,wax tailor,jazz,2012
+62087,sphynx gate / the world it softly lulls,hiatus kaiyote,jazz,2013
+62924,breathe,alfa mist,jazz,2017
+62942,smile,gregory porter,jazz,2017
+63071,second wind,kadhja bonet,jazz,2018
+63171,i can't give your time back,taylor mcferrin,jazz,2019
+63183,mind’s eye,jordan rakei,jazz,2019
+63691,three blind mice,max romeo,reggae,1975
+64033,words of wisdom (live),dennis brown,reggae,1979
+64088,it noh funny,linton kwesi johnson,reggae,1979
+64313,rocky road,mikey dread,reggae,1982
+64510,you ain't cool,whispering lion,reggae,1984
+64962,good thing going,sugar minott,reggae,1989
+64964,dedicate my song to you (dedicated to you),the jamaicans,reggae,1989
+65223,all night till day light,jacob miller,reggae,1991
+66165,s.t.p.,sublime,reggae,1998
+66245,hot gal,shaggy,reggae,1998
+66647,heart of a lion,ky-mani marley,reggae,2001
+66664,the stone love allstars party in session,ky-mani marley,reggae,2001
+67498,world a reggae (out in the street they call it murder),ini kamoze,reggae,2006
+68112,i am coming home,pat kelly,reggae,2009
+68128,kill dem,vybz kartel,reggae,2009
+68237,in too deep,staylefish,reggae,2009
+68361,alive,the green,reggae,2010
+68643,headlock,sticky fingers,reggae,2011
+68742,¿qué será? / ritmo que pesa / suelta los amarres / revolución en estéreo / lo de más,cultura profética,reggae,2012
+69067,marijuana laws,ballyhoo!,reggae,2013
+69131,weary eyed,ocean alley,reggae,2013
+69390,whole (feat. tubby love),cas haley,reggae,2015
+69870,johny says stay cool,babe rainbow,reggae,2017
+70015,flashbacks,katastro,reggae,2018
+70229,tek it out,vybz kartel,reggae,2019
+70417,time and tide,the platters,rock,1957
+70746,starting today,elvis presley,rock,1961
+70909,long tall sally,the kinks,rock,1964
+71205,sgt. pepper's lonely hearts club band,the beatles,rock,1967
+71375,mother nature's son,the beatles,rock,1968
+72011,suffragette city,david bowie,rock,1972
+72069,lookin' for a reason,creedence clearwater revival,rock,1972
+72440,of a lifetime,journey,rock,1975
+72543,fly away,john denver,rock,1975
+72788,suzy is a headbanger,ramones,rock,1977
+72909,"long, long way from home",foreigner,rock,1977
+73124,can't stand losing you,the police,rock,1978
+73439,drug me,dead kennedys,rock,1980
+73484,goodbye to romance,ozzy osbourne,rock,1980
+74201,ask the lonely,journey,rock,1983
+74265,mama,genesis,rock,1983
+74497,out in l.a.,red hot chili peppers,rock,1984
+74831,alone again or,the damned,rock,1986
+74878,i love hot nights,jonathan richman,rock,1987
+75083,get it on,kingdom come,rock,1988
+75533,best i can,queensrÿche,rock,1990
+75584,love of a lifetime,firehouse,rock,1990
+75591,night crawler,judas priest,rock,1990
+75723,crusader,saxon,rock,1991
+76415,99 ways to die,megadeth,rock,1995
+76634,the great southern trendkill,pantera,rock,1996
+77137,it'll be ok,limp bizkit,rock,2000
+77430,disciple,slayer,rock,2001
+77576,system,chester bennington,rock,2002
+77643,son et lumiere,the mars volta,rock,2003
+77669,letters from war,mark schultz,rock,2003
+77689,the only,static-x,rock,2003
+77825,the deep end,crossfade,rock,2004
+78191,long nights,eddie vedder,rock,2007
+78355,the world we live in,the killers,rock,2008
+78553,today is gonna be a great day,bowling for soup,rock,2009
+78559,spotlight,mutemath,rock,2009
+79008,every night,imagine dragons,rock,2012
+79251,televisions,current joys,rock,2013
+80336,monsoon,hippo campus,rock,2017
+80431,yesterday,imagine dragons,rock,2017
+80510,painkillers,rainbow kitten surprise,rock,2018
+80515,seventeen,peach pit,rock,2018
+80538,jenny jenkins,mt. joy,rock,2018
+80545,thoughts & prayers,grandson,rock,2018
+80726,memorized,mat kearney,rock,2018
+81757,work it out,corleone,hip hop,2014
+81776,tic toc,lords of the underground,hip hop,2015
+81785,baby bubba,timbaland & magoo,hip hop,2015
+81904,find us (in the back of the club),the beatnuts,hip hop,2017
+81948,paper feat. rick ross,boyz n da hood,hip hop,2017
+82125,get up,nate dogg,hip hop,2018
+82202,down for my niggaz,c-murder,hip hop,2018
+82405,back and forth,b.o.b,hip hop,2019
+82437,blowin' trees,nappy roots,hip hop,2019
