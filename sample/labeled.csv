@@ -1,0 +1,18 @@
+,_id,ltable_id,rtable_id,ltable_Song_Name,ltable_Artist_Name,ltable_Released,rtable_Song_Name,rtable_Artist_Name,rtable_Released,label
+0,0,1019,3310,together,"disclosure , sam smith , nile rodgers & james napier",2013,together,harry nilsson,1968,0
+1,1,1019,50841,together,"disclosure , sam smith , nile rodgers & james napier",2013,together,the raconteurs,2006,0
+2,2,1048,3310,together,"sam smith , nile rodgers , disclosure & jimmy napes",2013,together,harry nilsson,1968,0
+3,3,1048,50841,together,"sam smith , nile rodgers , disclosure & jimmy napes",2013,together,the raconteurs,2006,0
+4,4,3169,55965,o holy night,nicole scherzinger,2013,o holy night,ella fitzgerald,1967,0
+5,5,4802,59978,paradise,tiìçsto & dyro,2013,paradise,norman brown,1999,0
+6,6,5120,17909,own it,drake,2013,own it,drake,2013,1
+7,7,5174,58378,3 a.m.,eminem,2009,3 a.m.,bob james,1986,0
+8,8,5245,72160,funeral for a friend / love lies bleeding,elton john,2014,funeral for a friend / love lies bleeding,elton john,1973,1
+9,9,5579,72241,always on my mind,willie nelson,2015,always on my mind,elvis presley,1973,0
+10,10,5602,78430,west coast smoker,fall out boy,2008,west coast smoker,fall out boy,2008,1
+11,11,5734,43274,angel,florida georgia line,2014,angel,aretha franklin,1972,0
+12,12,5927,15740,maneater,nelly furtado,2010,maneater,nelly furtado,2006,1
+13,13,6173,3310,together,the xx,2013,together,harry nilsson,1968,0
+14,14,6173,50841,together,the xx,2013,together,the raconteurs,2006,0
+15,15,6689,55588,the good life,hannah montana,2009,the good life,tony bennett,1963,0
+16,16,6689,56119,the good life,hannah montana,2009,the good life,sammy davis jr.,1968,0
