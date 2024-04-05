@@ -9,6 +9,8 @@ Các nguồn tham khảo khác:
 
 Documentation:
 - https://github.com/anhaidgroup/py_entitymatching
+- https://anhaidgroup.github.io/py_entitymatching/v0.4.0/user_manual/api/handling_features.html
+- https://nbviewer.org/github/anhaidgroup/py_entitymatching/tree/master/notebooks/guides/
 - https://anhaidgroup.github.io/py_entitymatching/v0.3.x/singlepage.html#document-index
 - https://github.com/ivan-bilan/Entity-Matching-Tutorial
 - https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md ==> DEEP MATHCER
