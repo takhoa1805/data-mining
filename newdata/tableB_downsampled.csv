@@ -1,301 +1,1001 @@
 id,Song_Name,Artist_Name,Genre,Released
-662,i'll be home for christmas,connie francis,pop,1959
-816,stranger in paradise,johnny mathis,pop,1959
-873,sweet leilani,sam cooke,pop,1960
-1196,muskrat,the everly brothers,pop,1961
-1204,rock house,roy orbison,pop,1961
-1472,i sold my heart to the junkman,dee dee sharp,pop,1962
-1581,roses are red (my love),bobby vinton,pop,1962
-1709,ballad of ole' betsy,the beach boys,pop,1963
-1895,two lovers,mary wells,pop,1963
-2048,i died inside,lesley gore,pop,1964
-2351,goldwatch blues,donovan,pop,1965
-3420,so unusual,the impressions,pop,1968
-3634,sometimes in winter,"blood, sweat & tears",pop,1968
-4046,let it be me,bob dylan,pop,1970
-4084,i've been working,van morrison,pop,1970
-4648,what a change,bread,pop,1971
-5323,half-breed,cher,pop,1973
-6199,dry your eyes,neil diamond,pop,1976
-6217,don't ask me questions,graham parker & the rumour,pop,1976
-6436,my broken souvenirs,pussycat,pop,1977
-6469,i've got the music in me,heart,pop,1977
-6704,you're my world,helen reddy,pop,1977
-6785,backwards traveller,wings,pop,1978
-6850,dot dash,wire,pop,1978
+12,apopse eida oneiro,giorgos papadopoulos,pop,1950
+80,raat andheri door savera,mukesh,pop,1953
+133,the next big river,harry belafonte,pop,1954
+192,take the “a” train,ted heath,pop,1956
+262,in other words (fly me to the moon),johnny mathis,pop,1956
+275,more,jerry vale,pop,1956
+284,chinna kelbyaadve nanna ppuraana,t. m. soundararajan,pop,1956
+308,angelique-o,harry belafonte,pop,1957
+388,titulos principio,esquivel!,pop,1957
+390,in the middle of nowhere,the platters,pop,1957
+414,mona lisa,frankie laine,pop,1958
+478,poor little fool,ricky nelson,pop,1958
+507,you are my one desire,buddy holly,pop,1958
+613,as long as i live,neil sedaka,pop,1959
+685,as time goes by,the flamingos,pop,1959
+705,turn! turn! turn! (to everything there is a season),the byrds,pop,1959
+717,just you,dion & the belmonts,pop,1959
+836,someone to need me (as i need you),jackie wilson,pop,1959
+845,i am a roving gambler,the brothers four,pop,1960
+846,christmas auld land syne,bobby darin,pop,1960
+970,(ain't that) good news,sam cooke,pop,1960
+1037,jamaica farewell,sam cooke,pop,1960
+1041,"you, you, you",sam cooke,pop,1960
+1065,the song from moulin rouge,sam cooke,pop,1960
+1255,you're sixteen,johnny burnette,pop,1961
+1275,angelina,harry belafonte,pop,1961
+1297,devil doll,roy orbison,pop,1961
+1315,sweet and easy to love,roy orbison,pop,1961
+1362,fools rush in,dion,pop,1961
+1508,all by myself,bobby darin,pop,1962
+1664,i'll be home,pat boone,pop,1962
+1703,shut down (mono),the beach boys,pop,1963
+1791,slippin' and slidin',buddy holly,pop,1963
+1823,my foolish heart,lesley gore,pop,1963
+1946,if i had a hammer,trini lopez,pop,1963
+1955,fly me to the moon,brenda lee,pop,1963
+2169,he was my brother,simon & garfunkel,pop,1964
+2282,96 tears,? & the mysterians,pop,1964
+2533,(i'm a) road runner,jr. walker & the all stars,pop,1965
+2821,california dreamin',the mamas & the papas,pop,1966
+2967,catch the wind,glen campbell,pop,1967
+3394,the straight life,glen campbell,pop,1968
+3446,spanish eyes,al hirt,pop,1968
+3496,(sittin' on) the dock of the bay,glen campbell,pop,1968
+3517,over you,gary puckett & the union gap,pop,1968
+3551,i get the sweetest feeling,jackie wilson,pop,1968
+3563,at the zoo,simon & garfunkel,pop,1968
+3602,greenwich village folk song salesman,nancy sinatra,pop,1968
+3608,i wish it would rain,gladys knight & the pips,pop,1968
+3620,get to you,the byrds,pop,1968
+3662,eleanor rigby,four tops,pop,1969
+3688,only yesterday,the lovin' spoonful,pop,1969
+3792,900 miles,dion,pop,1969
+3883,galveston,glen campbell,pop,1969
+4019,point it out,smokey robinson & the miracles,pop,1970
+4027,into the mystic,van morrison,pop,1970
+4060,don't you feel small,the moody blues,pop,1970
+4519,sweet seasons,carole king,pop,1971
+4529,disney girls (1957),the beach boys,pop,1971
+4568,if,bread,pop,1971
+4749,sometime world,wishbone ash,pop,1972
+4795,souvenirs,john prine,pop,1972
+4846,sheraton gibson,pete townshend,pop,1972
+4985,watch me,labi siffre,pop,1972
+4986,diamond girl,seals and crofts,pop,1972
+5138,coz i luv you,slade,pop,1973
+5226,little woman love,wings,pop,1973
+5457,falling in love with myself again,sparks,pop,1974
+5701,mister kingdom,electric light orchestra,pop,1974
+5820,stardust,johnny mathis,pop,1975
+5968,never let her go,david gates,pop,1975
+6152,modern world,the modern lovers,pop,1976
+6247,casanova,bryan ferry,pop,1976
+6289,hospital,the modern lovers,pop,1976
+6577,today's the first day,bread,pop,1977
+6641,106 beats that,wire,pop,1977
+6667,elo kiddies,cheap trick,pop,1977
+6670,straight line,wire,pop,1977
+6752,babelogue,patti smith,pop,1978
+6765,kingdom hall,van morrison,pop,1978
 6936,you can't win,michael jackson,pop,1978
-7009,love has fallen on me,chaka khan,pop,1978
+6942,don't cry out loud,melissa manchester,pop,1978
+7013,california man,cheap trick,pop,1978
+7079,i believe in you,bob dylan,pop,1979
+7090,mistress of mine,little river band,pop,1979
+7105,small paradise,john mellencamp,pop,1979
 7167,everytime you leave,emmylou harris,pop,1979
-7284,gonna raise hell,cheap trick,pop,1979
-7355,here comes the summer,the undertones,pop,1979
 7431,towers of london,xtc,pop,1980
-7940,chips on my shoulder,soft cell,pop,1981
-8247,wan light,orange juice,pop,1982
-8293,i'm not a loser,descendents,pop,1982
-8318,talk talk,talk talk,pop,1982
-8362,the warrior,patty smyth,pop,1982
-8464,unconditional love,donna summer,pop,1983
-8836,get on your feet,gloria estefan,pop,1984
-9151,the blue sky,a-ha,pop,1985
-9362,between a laugh and a tear,john mellencamp,pop,1985
-9414,haunted when the minutes drag,love and rockets,pop,1985
-9425,mother stands for comfort,kate bush,pop,1985
-9497,in a lonely place,the smithereens,pop,1986
-9532,addicted to spuds,"""weird al"" yankovic",pop,1986
-9888,solitude standing,suzanne vega,pop,1987
-10058,over and done with,the proclaimers,pop,1987
-10491,elders,the offspring,pop,1989
+7461,and i moved,pete townshend,pop,1980
+7632,fa cé-la,the feelies,pop,1980
+7634,biko,peter gabriel,pop,1980
+7698,up the neck,pretenders,pop,1980
+7809,ya no quiero volver con usted,juan gabriel,pop,1981
+7895,youth,soft cell,pop,1981
+7977,monitor,siouxsie and the banshees,pop,1981
+8162,music for chameleons,gary numan,pop,1982
+8173,blind dumb deaf,cocteau twins,pop,1982
+8210,island of lost souls,blondie,pop,1982
+8250,american dream,bad religion,pop,1982
+8266,inside out,odyssey,pop,1982
+8443,jean is dead,descendents,pop,1982
+8548,wake up (it's 1984),oingo boingo,pop,1983
+8550,mr. frump in the iron lung,"""weird al"" yankovic",pop,1983
+8580,honey,marine girls,pop,1983
+8764,over the edge,wipers,pop,1983
+8796,memories fade,tears for fears,pop,1983
+8976,eat it,"""weird al"" yankovic",pop,1984
+9082,kids wanna rock,bryan adams,pop,1984
+9124,forget the swan,dinosaur jr.,pop,1985
+9132,give blood,pete townshend,pop,1985
+9176,face the face,pete townshend,pop,1985
+9663,since i don't have you,the skyliners,pop,1986
+9695,when company comes,the feelies,pop,1986
+9747,set the night to music,starship,pop,1987
+9768,bad penny,big black,pop,1987
+9832,hideaway,erasure,pop,1987
+9978,only in my dreams,debbie gibson,pop,1987
+10000,i've been tired,pixies,pop,1987
+10021,i want your (hands on me),sinéad o'connor,pop,1987
+10176,where it all started,new edition,pop,1988
+10272,good thing,fine young cannibals,pop,1988
+10380,why?,tracy chapman,pop,1988
+10456,anxiety,bad religion,pop,1989
+10497,little tin god,don henley,pop,1989
+10504,yesterday girl,the smithereens,pop,1989
 10804,glorious,the breeders,pop,1990
-10834,god song,bad religion,pop,1990
-11805,hyena,rancid,pop,1993
-12410,d.s.,michael jackson,pop,1995
+10828,free,mazzy star,pop,1990
+10893,real real gone,van morrison,pop,1990
+11057,trompe le monde,pixies,pop,1991
+11077,coming out of the dark,gloria estefan,pop,1991
+11138,all the wrong reasons,tom petty and the heartbreakers,pop,1991
+11189,love to hate you,erasure,pop,1991
+11286,ballerina out of control,the ocean blue,pop,1991
+11354,king of fools,social distortion,pop,1992
+11441,this time darlin',social distortion,pop,1992
+11445,hoover dam,sugar,pop,1992
+11471,happy birthday to me,cracker,pop,1992
+11637,making believe,social distortion,pop,1992
+11653,spaceman,4 non blondes,pop,1992
+11893,"ain't no fun (if the homies cant have none) (feat. nate dogg, warren g & kurupt)",snoop dogg,pop,1993
+11943,down for whatever,ice cube,pop,1993
+12056,jennifer's body,hole,pop,1994
+12060,friend of mine,the notorious b.i.g.,pop,1994
+12082,color me once,violent femmes,pop,1994
+12395,a salty salute,guided by voices,pop,1995
+12452,december,collective soul,pop,1995
+12508,freek'n you,jodeci,pop,1995
+12547,mvp,big l,pop,1995
 12559,water's edge,seven mary three,pop,1995
-12587,not tonight,lil' kim,pop,1996
-13059,"honey, i'm home",shania twain,pop,1997
-13498,stand or fall,the fixx,pop,1999
-13835,red rum,project pat,pop,2000
-14210,your house,jimmy eat world,pop,2001
-14324,running away,hoobastank,pop,2001
-14559,blue and yellow,the used,pop,2002
-14842,a moment like this,kelly clarkson,pop,2003
-15693,you,breaking benjamin,pop,2006
-15855,tears don't fall,bullet for my valentine,pop,2006
-15877,is there a ghost,band of horses,pop,2007
-16017,walking disaster,sum 41,pop,2007
-16117,good morning,kanye west,pop,2007
-17022,dirty dancer,enrique iglesias,pop,2010
-17030,this is the life,two door cinema club,pop,2010
-17536,judas,lady gaga,pop,2011
-17782,clarity,zedd,pop,2012
+12627,dear lover,social distortion,pop,1996
+12710,something kinda funny,spice girls,pop,1996
+13019,new skin,incubus,pop,1997
+13092,how's it going to be,third eye blind,pop,1997
+13109,barbie girl,aqua,pop,1997
+13286,falling in love again,eagle-eye cherry,pop,1998
+13441,history of a boring town,less than jake,pop,1998
+13463,video killed the radio star,the presidents of the united states of america,pop,1998
+13522,the truth,beanie sigel,pop,1999
+13623,graduation (friends forever),vitamin c,pop,1999
+13638,wendy clear,blink-182,pop,1999
+13795,come out swinging,the offspring,pop,2000
+14035,one moment in time,whitney houston,pop,2000
+14464,nowhere to run,martha reeves & the vandellas,pop,2002
+14486,poetic tragedy,the used,pop,2002
+14487,stuck in america,sugarcult,pop,2002
+14492,changes,3 doors down,pop,2002
+14509,keep fishin',weezer,pop,2002
+14515,memory,sugarcult,pop,2002
+14529,b r right (feat. ludacris),trina,pop,2002
+14544,unfoolish,ashanti,pop,2002
+14708,breathe on me,britney spears,pop,2003
+14731,so says i,the shins,pop,2003
+14764,this is your life,switchfoot,pop,2003
+14809,i believe i can fly,me first and the gimme gimmes,pop,2003
+15086,crown of love,arcade fire,pop,2004
+15402,you,raheem devaughn,pop,2005
+15432,london beckoned songs about money written by machines,panic! at the disco,pop,2005
+15531,"nails for breakfast, tacks for snacks",panic! at the disco,pop,2005
+15615,stolen,dashboard confessional,pop,2006
+15634,ring the alarm,beyoncé,pop,2006
+15672,all these things i hate (revolve around me),bullet for my valentine,pop,2006
+15686,the good left undone,rise against,pop,2006
+15713,over and over,three days grace,pop,2006
+15836,i luv it,jeezy,pop,2006
+15885,this is my now,jordin sparks,pop,2007
+16188,barry bonds,kanye west,pop,2007
+16214,body on me,ashanti,pop,2008
+16300,that's right,three 6 mafia,pop,2008
+16329,hustlaz ambition,jeezy,pop,2008
+16473,about a girl,the academy is...,pop,2008
+16643,blue lips,regina spektor,pop,2009
+16651,stars,the xx,pop,2009
+16778,i gotta feeling,the black eyed peas,pop,2009
+16781,down,jay sean,pop,2009
+16895,zebra,beach house,pop,2010
+16905,knives and pens,black veil brides,pop,2010
+16956,fall for your type,jamie foxx,pop,2010
+16966,the best day,atmosphere,pop,2010
+17010,the end,kid cudi,pop,2010
+17089,find your love,drake,pop,2010
+17294,buried alive interlude,drake,pop,2011
+17314,calgary,bon iver,pop,2011
+17532,one and only,adele,pop,2011
+17616,dead sea,the lumineers,pop,2012
+17631,natalie,bruno mars,pop,2012
+17846,genesis,grimes,pop,2012
 17863,disparate youth,santigold,pop,2012
-17996,send it up,kanye west,pop,2013
-18425,comfortable,k camp,pop,2014
-19218,white iverson,post malone,pop,2016
-20345,i'm walking with him,lester flatt,country,1951
-21054,"far, far away",don gibson,country,1960
-21314,lonesome number one,don gibson,country,1962
-21540,let the good times roll,conway twitty,country,1963
-21888,always alone,johnny cash,country,1964
-22398,my blue eyed jane,hank locklin,country,1966
-23220,december day,willie nelson,country,1968
-23317,holler in the swamp,steve young,country,1969
-23331,i walk alone,willie nelson,country,1969
-23933,hello mary lou,new riders of the purple sage,country,1971
+17881,just one yesterday,fall out boy,pop,2013
+18047,boneless,steve aoki,pop,2013
+18129,black skinhead,kanye west,pop,2013
+18130,break from toronto,partynextdoor,pop,2013
+18257,in a week (feat. karen cowley),hozier,pop,2014
+18329,fool's gold,one direction,pop,2014
+18504,cold cold man,saint motel,pop,2014
+18638,hello,adele,pop,2015
+18740,death & taxes,daniel caesar,pop,2015
+18977,coconut oil,lizzo,pop,2016
+19005,thinking bout you,ariana grande,pop,2016
+19153,down in the dm,yo gotti,pop,2016
+19228,million reasons,lady gaga,pop,2016
+19305,i was made for loving you,tori kelly,pop,2016
+19348,lust for life (with the weeknd),lana del rey,pop,2017
+19631,boulevard of broken dreams,green day,pop,2017
+19753,icy grl,saweetie,pop,2018
+19894,fire on fire,sam smith,pop,2018
+19911,no stylist,french montana,pop,2018
+19934,sunflower,post malone,pop,2018
+19952,in my blood,shawn mendes,pop,2018
+19982,i'm upset,drake,pop,2018
+20041,painkiller,ruel,pop,2019
+20067,i.f.l.y.,bazzi,pop,2019
+20162,paris morton music,drake,pop,2019
+20187,mad love,mabel,pop,2019
+20204,my type,saweetie,pop,2019
+20210,tap (feat. meek mill),nav,pop,2019
+20243,trust issues,drake,pop,2019
+20293,how long will it take (to stop loving you),lefty frizzell,country,1950
+20343,black snake moan,brownie mcghee,country,1951
+20514,the mansion you stole,johnny horton,country,1956
+20530,if you're ever lonely darling,lefty frizzell,country,1957
+20560,please come back home,carl smith,country,1957
+20654,ice cold heart,ray price,country,1958
+20680,"you, you, you",sonny james,country,1958
+20687,that's all over,johnny cash,country,1958
+20814,memory,jean shepard,country,1959
+21165,harvest of sunshine,jimmy dean,country,1961
+21169,mind your own business,jimmy dean,country,1961
+21192,the waltz of the angels,jean shepard,country,1961
+21238,second choice,stonewall jackson,country,1962
+21280,danny boy,frank patterson,country,1962
+21361,in the jailhouse,johnny cash,country,1962
+21452,trail dreamin',sons of the pioneers,country,1963
+21522,misery known as heartache,stonewall jackson,country,1963
+21549,grieving in my heart,stonewall jackson,country,1963
+21609,the rebel,johnny cash,country,1963
+21663,i wonder where you are tonight,bobby bare,country,1963
+21707,the hawaiian wedding song,marty robbins,country,1963
+21868,bummin' an old freight train,lester flatt,country,1964
+21959,this time i almost made it,tammy wynette,country,1964
+22023,turn the lights down low,marty robbins,country,1965
+22096,but i love you more,roger miller,country,1965
+22162,sing a sad song,merle haggard,country,1965
+22191,night life,willie nelson,country,1965
+22211,don't forget (i still love you),connie smith,country,1965
+22303,the shoe goes on the other foot tonight,george jones,country,1966
+22419,i want to go with you,eddy arnold,country,1966
+22452,dixie cup of sand,skeeter davis,country,1966
+22464,leave,buffalo springfield,country,1966
+22508,you win again,hank williams,country,1966
+22712,u.s. male,jerry reed,country,1967
+22764,hummingbirds,love,country,1967
+23123,sorrow (breaks a good man down),waylon jennings,country,1968
+23125,means to an end,traffic,country,1968
+23195,shanghai noodle factory,traffic,country,1968
+23210,speak softly (you're talking to my heart),gene watson,country,1968
+23289,touch 'em with love,bobbie gentry,country,1969
+23318,my sweet love ain't around,steve young,country,1969
+23472,i never once stopped loving you,connie smith,country,1970
+23542,keep on growing,derek & the dominos,country,1970
+23574,comin' home,delaney & bonnie,country,1970
+23626,he called me baby,jessi colter,country,1970
+23676,if i were a carpenter,johnny cash,country,1970
+23790,mr. lovemaker,johnny paycheck,country,1971
+23858,cherokee,"hank williams, jr.",country,1971
+23860,"beat me daddy, eight to the bar",commander cody and his lost planet airmen,country,1971
+23890,the king,jonathan edwards,country,1971
+23893,i believe,dolly parton,country,1971
+23894,i feel so good,faces,country,1971
+23908,good friend,loggins & messina,country,1971
+24312,thinking of you,loggins & messina,country,1972
+24389,osteraker (san quentin),johnny cash,country,1973
+24408,wolf,joe walsh,country,1973
+24642,the devil is singing our song,james gang,country,1973
 24773,heaven or hell,waylon jennings,country,1974
-25060,deal,tom t. hall,country,1975
-25279,blue skies,jim reeves,country,1975
-25616,time on my hands,don williams,country,1977
-25691,i should have never started lovin' you,the marshall tucker band,country,1977
-26175,i won't be home no more,hank williams,country,1978
-26205,incandescent blue,bruce cockburn,country,1979
-26254,ballad of a small man,marty robbins,country,1979
-26906,only the heart may know,dan fogelberg,country,1981
-27118,still right here in my heart,pure prairie league,country,1981
-27440,into the darkness,"crosby, stills & nash",country,1982
-28242,rockin' chair money,hank williams,country,1985
-28307,i know the way to you by heart,vern gosdin,country,1985
-28540,a little money honey,chris ledoux,country,1986
-28550,"look at that, look at that",the fabulous thunderbirds,country,1986
-28585,stay loose,gordon lightfoot,country,1986
-28795,if she were you,john prine,country,1986
-28831,one in a million,38 special,country,1986
-28877,w. lee o daniel (and the light crust dough boys),johnny cash,country,1987
-28904,"love, you ain't seen the last of me",john schneider,country,1987
-30381,billy the kid,billy dean,country,1991
-30608,mama's opry,iris dement,country,1992
+24797,would you be my lady,david allan coe,country,1974
+24804,if i cross your mind,dolly parton,country,1974
+24936,i still can't believe you're gone,willie nelson,country,1974
+24970,phases and stages (theme)/washing the dishes,willie nelson,country,1974
+25101,when i'm gone,dolly parton,country,1975
+25139,"hey mister, that's me up on the jukebox",linda ronstadt,country,1975
+25369,tomorrow you'll be gone,marty robbins,country,1976
+25394,so good woman,waylon jennings,country,1976
+25705,lose your heart,bob welch,country,1977
+25762,getting in my way,dolly parton,country,1977
+25817,applejack,dolly parton,country,1977
+25888,minute by minute,the doobie brothers,country,1977
+25970,fingernails,joe ely,country,1978
+25972,i love my label,nick lowe,country,1978
+26012,all i'm missing is you,don williams,country,1978
+26048,don't want to live without it,pablo cruise,country,1978
+26115,honky tonk blues,hank williams,country,1978
+26163,tule's blues,warren zevon,country,1978
+26428,you decorated my life,kenny rogers,country,1979
+26763,shoot low sheriff!,john anderson,country,1980
+26888,heart of mine,the oak ridge boys,country,1980
+27055,ain't much more,"hank williams, jr.",country,1981
+27217,chance of lovin' you,earl thomas conley,country,1981
+27301,the teddy bear song,waylon jennings,country,1982
+27348,stick it where the sun don't shine,nick lowe,country,1982
+27487,changes comin' on,alabama,country,1982
+27512,we must believe in magic,johnny cash,country,1982
+28013,she used to be somebody's baby,larry gatlin & the gatlin brothers,country,1984
+28062,i need someone like me,george strait,country,1984
+28105,love is alive,the judds,country,1984
+28117,natural high,merle haggard,country,1984
+28131,girls night out,the judds,country,1984
+28181,the boy,alabama,country,1984
+28244,i wish i had a nickel,hank williams,country,1985
+28252,once in a very blue moon,dolly parton,country,1985
+28535,diamantina drover,john williamson,country,1986
+28797,just a little love,38 special,country,1986
+28996,what it boils down to,"hank williams, jr.",country,1987
+29324,blue moon of kentucky,patsy cline,country,1988
+29363,oo-de-lally,roger miller,country,1988
+29457,don't mind if i do,george strait,country,1988
+29479,you are my sunshine,delbert mcclinton,country,1989
+29526,wishing well,bob mould,country,1989
+29620,wherever you are,mary chapin carpenter,country,1989
+29649,mister dj,the charlie daniels band,country,1989
+29741,somewhere in my broken heart,randy travis,country,1989
+30029,born and raised in black and white,the highwaymen,country,1990
+30230,new patches,mel tillis,country,1991
+30294,"paris, tennessee",tracy lawrence,country,1991
+30509,six blocks away,lucinda williams,country,1992
+30647,you say you will,trisha yearwood,country,1992
 30680,the battle hymn of the republic,lee greenwood,country,1992
-30727,when did you stop loving me,george strait,country,1992
-30785,samson and delilah,rev. gary davis,country,1992
-31072,can't break it to my heart,tracy lawrence,country,1993
-32121,still,bill anderson,country,1996
-32223,land of the living,pam tillis,country,1997
-32519,always on my mind,johnny cash,country,1998
-33708,back around,cross canadian ragweed,country,2001
-33712,i remember me,silver jews,country,2001
-33960,fall into me,emerson drive,country,2002
-34278,a simple life,ricky skaggs,country,2003
-35269,close up the honky tonks,dwight yoakam,country,2007
-35281,none but the rain,townes van zandt,country,2007
-35482,american man,trace adkins,country,2007
-35517,south carolina low country,josh turner,country,2007
-36208,soldiers & jesus,james otto,country,2010
-36465,redemption day,johnny cash,country,2010
-38283,zombie (feat. madchild & insane clown posse),jelly roll,country,2016
+30794,ain't no good goodbye,billy ray cyrus,country,1992
+30851,she makes me feel so good,lyle lovett,country,1992
+31147,take me down to the infirmary,cracker,country,1993
+31181,give back the key to my heart,uncle tupelo,country,1993
+31389,whisper my name,randy travis,country,1994
+31562,the cape,guy clark,country,1995
+31691,the bigger the fool (the harder the fall),kenny chesney,country,1995
+31718,"tall, tall trees",alan jackson,country,1995
+31780,they're playin' our song,neal mccoy,country,1995
+31815,only you (and you alone),travis tritt,country,1995
+31898,she's sure taking it well,kevin sharp,country,1996
+32059,straight tequila night,john anderson,country,1996
+32163,caryatid easy,son volt,country,1997
+32175,a real good place to start,george strait,country,1997
+32178,creosote,son volt,country,1997
+32270,johnny law,wayne hancock,country,1997
+32387,mohair sam,charlie rich,country,1997
+32404,i'm so happy i can't stop crying,toby keith,country,1997
+32482,big dreams in a small town,restless heart,country,1998
+32572,everytime i cry,terri clark,country,1998
+32693,no place that far,sara evans,country,1998
+32733,teddy bear song,barbara fairchild,country,1998
+32790,things i cannot change,the mavericks,country,1999
+32854,jagged,old 97's,country,1999
+32907,steady as the rain,dolly parton,country,1999
+32930,high sierra,dolly parton,country,1999
+32934,busted afternoon,old 97's,country,1999
+33184,sinner saved by grace,gaither vocal band,country,2000
+33252,the black crow,songs: ohia,country,2000
+33405,i'm not strong enough to say no,blackhawk,country,2000
+33421,isn't love,joe purdy,country,2001
+33449,lonely girls,lucinda williams,country,2001
+33491,dooley,the gourds,country,2001
+33513,because he lives,bill gaither,country,2001
+33523,slowly,webb pierce,country,2001
+33550,tear it down,old crow medicine show,country,2001
+33573,xmas curtain,my morning jacket,country,2001
+33701,ronnie and neil,drive-by truckers,country,2001
+33842,one more night,darius rucker,country,2002
+33865,in my ears,mike mcclure,country,2002
+34134,get high to this,lil wyte,country,2003
+34290,when the sun goes down in georgia,corey smith,country,2003
+34373,million miles,adam hood,country,2004
+34451,will you love me in a trailer?,aaron watson,country,2004
+34738,the freak parade,big & rich,country,2005
+34889,lonesome usa,jason aldean,country,2005
+34939,april showers,sugarland,country,2006
+34970,broken bridges,lindsey haun,country,2006
+35037,sanguine,the avett brothers,country,2006
+35132,can't take it with you,eric church,country,2006
+35213,fightin' words,trace adkins,country,2006
+35308,unless it's kicks,okkervil river,country,2007
+35366,do you hear what i hear,carrie underwood,country,2007
+35586,angel of the morning (as heard in charlie wilson's war) (re-recorded / remastered),juice newton,country,2008
+35832,god must really love me,craig morgan,country,2008
+35892,because he lives,gaither vocal band,country,2009
+36115,the perfect space,the avett brothers,country,2009
+36234,together again,buck owens,country,2010
+36237,all for you,keith urban,country,2010
+36253,the guitar song,jamey johnson,country,2010
+36287,this ain't no love song,trace adkins,country,2010
+36458,steal you away,randy rogers band,country,2010
+36831,from here to the moon and back,dolly parton,country,2012
+36906,to get to you (55th and 3rd),kenny chesney,country,2012
+37109,that's why i pray,big & rich,country,2012
+37233,nineteen somethin',mark wills,country,2013
+37280,closer tonight,billy currington,country,2013
+37309,amazing grace,george jones,country,2013
+37585,two night town,jason aldean,country,2014
+37799,broke record,eric church,country,2014
+37850,kiss you tonight,david nail,country,2014
+37917,alone tonight,chris young,country,2015
+37972,are you ready for the country,"hank williams, jr.",country,2015
+38139,over my head,jon pardi,country,2015
+38224,lonely girl,charles kelley,country,2016
+38389,good ole days (feat. brent cobb),whiskey myers,country,2016
 38468,black,dierks bentley,country,2016
-38848,somebody to thank,logan mize,country,2017
-38934,traveler,upchurch,country,2017
-39668,one at a time,jackson michelson,country,2019
-40313,you're something else,jimmy reed,blues,1958
-40606,please forgive me,wilbert harrison,blues,1959
-41282,"how long, how long blues",ella fitzgerald,blues,1963
-41377,if you live,mose allison,blues,1963
-41489,september song,the impressions,blues,1964
-41558,you send me,otis redding,blues,1964
-41658,dream (when you’re feeling blue),ella fitzgerald,blues,1964
+38760,bro code,brantley gilbert,country,2017
+38924,up to no good livin',chris stapleton,country,2017
+39167,man in the mirror,russell dickerson,country,2018
+39261,break up in the end,cole swindell,country,2018
+39351,hippie radio,eric church,country,2018
+39452,bury my bones,whiskey myers,country,2019
+39584,i wish grandpas never died,riley green,country,2019
+39603,almost,thomas rhett,country,2019
+39623,clean money,adam calhoun,country,2019
+39629,heartache medication,jon pardi,country,2019
+39781,no more cane on the brazo,odetta,blues,1954
+39799,please be kind,ella fitzgerald,blues,1954
+39805,you leave me breathless,ella fitzgerald,blues,1954
+39958,there is a fountain filled with blood,aretha franklin,blues,1956
+40027,here in my arms,ella fitzgerald,blues,1956
+40082,wishing well,the cadillacs,blues,1957
+40118,downbound train,chuck berry,blues,1957
+40328,sweet lovin' you,"eddie ""cleanhead"" vinson",blues,1958
+40374,somebody in my home,howlin' wolf,blues,1958
+40557,moonglow,louis prima,blues,1959
+40572,when your lover has gone,ray charles,blues,1959
+40586,i wanna be loved,jimmy reed,blues,1959
+40782,freedom road,josh white,blues,1960
+40877,where can you be,jimmy reed,blues,1960
+40890,night and day,etta james,blues,1960
+40898,if i lost you,b.b. king,blues,1960
+41104,"i surrender, dear",aretha franklin,blues,1962
+41160,broken hearted,the miracles,blues,1962
+41180,georgia on my mind,ella fitzgerald,blues,1962
+41314,you shouldn't have left,b.b. king,blues,1963
+41325,you've got her,aretha franklin,blues,1963
+41361,believe in me,the impressions,blues,1963
+41453,if ever i would leave you,aretha franklin,blues,1963
+41643,brenda lee,chuck berry,blues,1964
+41706,vaya con dios,chuck berry,blues,1965
+41743,july tree,nina simone,blues,1965
+41877,go to her,jefferson airplane,blues,1966
+41903,for myself,nina simone,blues,1966
+42049,shut up,the monks,blues,1966
 42100,what's it all about,al green,blues,1967
-42649,in the times of our lives,iron butterfly,blues,1969
-42702,blue and lonesome,little walter,blues,1969
-42846,space captain,joe cocker,blues,1970
-43213,girl,t. rex,blues,1971
-43666,teenage lament '74,alice cooper,blues,1973
-43672,one thing on my mind,montrose,blues,1973
-44078,sure feels good,elvin bishop,blues,1975
-44267,no regrets,phoebe snow,blues,1976
-44301,go to hell,alice cooper,blues,1976
-45506,down home blues,z.z. hill,blues,1981
-45558,bullet in the sky,peter green,blues,1981
-45571,love me,z.z. hill,blues,1981
-45612,knockin' on heaven's door,jerry garcia,blues,1982
+42215,manic depression,jimi hendrix,blues,1967
+42261,a hard road,john mayall & the bluesbreakers,blues,1967
+42271,two heads,jefferson airplane,blues,1967
+42352,funky fever,clarence carter,blues,1968
+42462,checkin' up on my baby,taj mahal,blues,1968
+42569,can't sleep this night,john mayall,blues,1969
+42619,the other side of this life,jefferson airplane,blues,1969
+42694,do what you like,blind faith,blues,1969
+42733,move over,steppenwolf,blues,1969
+42802,mean mistreater,grand funk railroad,blues,1970
+42977,"right now, right now",al green,blues,1971
+43007,piece of my heart,janis joplin,blues,1971
+43063,diamond meadows,t. rex,blues,1971
+43172,"happy birthday, john (happy trails)",janis joplin,blues,1971
+43196,nowhere to run,j.j. cale,blues,1971
+43277,easy livin',uriah heep,blues,1972
+43312,public animal #9,alice cooper,blues,1972
+43315,first snow in kokomo,aretha franklin,blues,1972
+43354,going down,jeff beck,blues,1972
+43491,hello hooray,alice cooper,blues,1973
+43531,corners without exits,hot tuna,blues,1973
+43597,"hot, blue and righteous",zz top,blues,1973
+43708,school days,al green,blues,1974
+43806,mos' scocious,dr. john,blues,1974
+43817,funkier than a mosquito's tweeter,nina simone,blues,1974
+43830,quitters never win,dr. john,blues,1974
+43996,tear drops on your letter,hank ballard,blues,1975
+44094,love hurts,nazareth,blues,1975
+44147,back in baby's arms,allen toussaint,blues,1975
+44359,pure imagination,lou rawls,blues,1976
+44398,downtown sundown,thin lizzy,blues,1977
+44410,the river,santana,blues,1977
+44422,one by one,the doobie brothers,blues,1977
+44438,searchin' for celine,blue öyster cult,blues,1977
+44574,howling wolf,muddy waters,blues,1977
+44729,opening: i can't turn you loose,the blues brothers,blues,1978
+44820,a catholic skin,the birthday party,blues,1979
+44866,alone,ted nugent,blues,1979
+44881,psycho mafia,the fall,blues,1979
+44925,the beginning of the end,b.b. king,blues,1979
+45061,lonely for your love,bad company,blues,1979
+45295,when a blind man cries,deep purple,blues,1980
+45325,having a good time,thin lizzy,blues,1980
+45341,"lonely days, lonely nights",whitesnake,blues,1981
+45393,leavin',the allman brothers band,blues,1981
+45605,i can't help myself,bonnie raitt,blues,1982
 45633,and this day,the fall,blues,1982
 45865,inflation blues,b.b. king,blues,1983
-46400,rhythm and romance,chick webb,blues,1985
-47304,god damn rock 'n' roll,the cramps,blues,1989
-47365,never too late,bad company,blues,1990
-47495,bill is dead,the fall,blues,1990
-47673,seasons,steve miller band,blues,1991
-47943,living in a dream,arc angels,blues,1992
-48268,henry,keb' mo',blues,1994
-48309,dregs fall to the wicked,the outlaws,blues,1994
-48346,stop! you're hurting me,magic sam,blues,1994
-48392,blackout blues,widespread panic,blues,1994
-48527,matters of the heart,bonnie raitt,blues,1995
-49175,pilgrim,eric clapton,blues,1998
-49610,look what you've done,muddy waters,blues,2001
-49806,straight shooter,reigning sound,blues,2002
-50055,burning hell,joe bonamassa,blues,2003
-50232,gun slinger,bo diddley,blues,2004
-50412,traveling riverside blues,eric clapton,blues,2004
-51358,i wanna make love,sir charles jones,blues,2008
-51795,stay around a little longer,buddy guy,blues,2010
-51944,baby the rain must fall,kenny wayne shepherd,blues,2011
-52372,you’re gonna miss me when i’m gone,muddy waters,blues,2012
-52784,"so, what would i do",joe bonamassa,blues,2014
-53445,royal jelly,deap vally,blues,2016
-53586,look away,larkin poe,blues,2017
+46063,oxun (oshun),santana,blues,1983
+46112,truck load of lovin',albert king,blues,1984
+46205,reasons,chris rea,blues,1984
+46313,around my heart,x,blues,1985
+46316,all join hands,slade,blues,1985
+46342,stainsby girls,chris rea,blues,1985
+46382,who loves you,santana,blues,1985
+46488,true love,al green,blues,1985
+46621,holy mother,eric clapton,blues,1986
+46760,once it's gotcha,santana,blues,1987
+46846,crying in the rain 87,whitesnake,blues,1987
+46952,why'd you lie?,colin james,blues,1988
+46989,hand to mouth,the georgia satellites,blues,1988
+47034,wicked as it seems,keith richards,blues,1988
+47042,out on a wire,dead moon,blues,1988
+47255,take off your shoes,"bobby ""blue"" bland",blues,1989
+47579,patch my heart,the mad lads,blues,1991
+47680,first shot missed him,mississippi john hurt,blues,1991
+47707,life is hard,johnny winter,blues,1991
+47758,little by little,alice cooper,blues,1991
+47877,don't be afraid of love,otis redding,blues,1992
+47921,999,keith richards,blues,1992
+48200,they tell me it's summer,the fleetwoods,blues,1993
+48529,tall boy,widespread panic,blues,1995
+48624,sweat,popa chubby,blues,1995
+48796,have you heard,the duprees,blues,1996
+48863,i miss you baby,taj mahal,blues,1997
+49085,i was made to love her,jimi hendrix,blues,1998
+49149,season of the witch,the blues brothers,blues,1998
+49223,"roggae (hampton, 1998)",phish,blues,1999
+49488,i'll be doggone,solomon burke,blues,2000
+49779,autumn shade,the vines,blues,2002
+49880,yearnin',the black keys,blues,2002
+49894,there is an end,the greenhornes,blues,2002
+49962,domino stomp,fats domino,blues,2003
+50356,romantic rights,death from above 1979,blues,2004
+50386,stones,sonic youth,blues,2004
+50540,finger poppin' time,hank ballard,blues,2005
+50550,no headstone on my grave,esther phillips,blues,2005
+50559,this lullaby,queens of the stone age,blues,2005
+50641,i gotta have it,jace everett,blues,2005
+50650,skin on skin,queens of the stone age,blues,2005
+50688,donovan's reef,country joe & the fish,blues,2006
+50774,bloodhounds on my trail,the black angels,blues,2006
+50850,running out of lies,willie clayton,blues,2006
+50966,matadjem yinmixan,tinariwen,blues,2007
+51001,evil ways,graveyard,blues,2007
+51029,circles,jj grey & mofro,blues,2007
+51061,get it on,grinderman,blues,2007
+51102,cold feet,albert king,blues,2007
+51139,keep the devil down,north mississippi allstars,blues,2008
+51166,night train,the kills,blues,2008
+51244,just another love song,sir charles jones,blues,2008
+51253,old enough (feat. ricky scaggs and ashley monroe),the raconteurs,blues,2008
+51288,carolina drama,the raconteurs,blues,2008
+51486,they killed john henry,justin townes earle,blues,2009
+51495,hair of the dog (studio demo),nazareth,blues,2009
+51707,pigs & pearls,j. roddy walston & the business,blues,2010
+52025,carrion crawler,thee oh sees,blues,2011
+52180,central pacific (feat. michael rose),parker millsap,blues,2012
+52188,one heart missing,grace potter & the nocturnals,blues,2012
+52241,ghost,ty segall,blues,2012
+52280,late in the night,heartless bastards,blues,2012
+52464,six to let the light shine thru,dead meadow,blues,2013
+52469,the devil's daughter,buddy guy,blues,2013
+52490,rival,black rebel motorcycle club,blues,2013
+52594,the marriage of coyote woman,all them witches,blues,2013
+52626,the preacher,jamie n commons,blues,2013
+52726,bird in a cage,otis spann,blues,2014
+52797,money,gov't mule,blues,2014
+52850,when the devil calls,blues saraceno,blues,2014
+53021,melt me,hanni el khatib,blues,2015
+53150,put a flower in your pocket,the arcs,blues,2015
+53170,that's right,cage the elephant,blues,2015
+53243,black tar,the kills,blues,2016
+53270,gelatinous cube,thee oh sees,blues,2016
+53367,devil’s land,the marcus king band,blues,2016
 53647,desperate love,jd mcpherson,blues,2017
-53835,surrender,anderson east,blues,2018
-54457,how high the moon,oscar peterson,jazz,1952
-54596,you're the right one,dean martin,jazz,1954
-54658,don't you remember?,dean martin,jazz,1954
-54988,anything goes,stan getz,jazz,1957
-55842,day by day,astrud gilberto,jazz,1965
-55992,"sweet, sweet lovable you",dean martin,jazz,1967
-56075,the bare necessities,louis armstrong,jazz,1968
-56209,21st century schizoid man,king crimson,jazz,1969
-56415,plain truth,gentle giant,jazz,1971
-57901,charlie's enormous mouth,frank zappa,jazz,1981
-58159,clowns on velvet,frank zappa,jazz,1984
-58189,paris blues,duke ellington,jazz,1984
-58786,i'm sorry dear,sammy davis jr.,jazz,1990
-58793,"sing, sing, sing",the andrews sisters,jazz,1990
-58912,blue rain,glenn miller,jazz,1991
-59110,who makes the loot?,the brand new heavies,jazz,1992
-59169,coming to life,michael franks,jazz,1993
-59306,can we live,jestofunk,jazz,1994
-59800,the mouth licking what you've bled,meshuggah,jazz,1998
-59848,joe cool,vince guaraldi trio,jazz,1998
-59935,jim fear,the dillinger escape plan,jazz,1999
-60188,take a number,typical cats,jazz,2001
-60338,funnybones & lazylegs,xploding plastix,jazz,2002
-60505,true colors,eva cassidy,jazz,2003
-60636,you play me,amp fiddler,jazz,2004
-60687,passing by,zero 7,jazz,2004
-60721,for once in my life,"harry connick, jr.",jazz,2004
-60762,call my name,joe bataan,jazz,2005
-60913,budos theme,the budos band,jazz,2005
-61011,vampira,devin townsend band,jazz,2006
-61067,my heart reminds me,dean martin,jazz,2006
-61174,a time for love,jane monheit,jazz,2007
-61185,huntermatic,rodney hunter,jazz,2007
-61281,pravus,meshuggah,jazz,2008
-61576,dr. wanna do,caro emerald,jazz,2010
-61885,kilimanjaro,the shaolin afronauts,jazz,2011
-61910,traces,vildhjarta,jazz,2012
-61930,grace,devin townsend project,jazz,2012
-62047,voodoo mon amour,diablo swing orchestra,jazz,2012
-62075,old records,jamie berry,jazz,2013
+53669,man of the moment,goodbye june,blues,2017
+53670,knock me out,vintage trouble,blues,2017
+53772,tiwàyyen,tinariwen,blues,2017
+53777,"within you, without you",tedeschi trucks band,blues,2017
+53875,ain’t our time to die,dorothy,blues,2018
+53934,tipsy,tucka,blues,2018
+54035,seasick emotions,the wood brothers,blues,2018
+54045,save me,danielle nicole,blues,2018
+54149,radio,ty segall,blues,2019
+54166,won't let go,jamie n commons,blues,2019
+54171,something new,kongos,blues,2019
+54202,high voltage / it's a long way to the top (if you wanna rock 'n' roll),eagles of death metal,blues,2019
+54220,dead ringer,des rocs,blues,2019
+54329,"vieni su (say you love me, too)",dean martin,jazz,1950
+54385,monk's mood,thelonious monk,jazz,1951
+54417,april in paris,doris day,jazz,1952
+54548,prelude to a kiss,duke ellington,jazz,1954
+54624,"long, long ago",dean martin,jazz,1954
+54657,"ready, willing and able",doris day,jazz,1954
+54669,carolina moon,dean martin,jazz,1954
+54673,mandy,rosemary clooney,jazz,1954
+54839,exactly like you,dizzy gillespie,jazz,1955
+54959,love me or leave me,anita o'day,jazz,1957
+54966,one song,dave brubeck,jazz,1957
+55005,all the way,lee morgan,jazz,1957
+55077,magnificent obsession,nat king cole,jazz,1958
+55090,if i'm lucky,julie london,jazz,1958
+55105,passing strangers,sarah vaughan,jazz,1958
+55110,good mornin' life,dean martin,jazz,1958
+55188,all of you,anita o'day,jazz,1959
+55284,fate in a pleasant mood,sun ra,jazz,1960
+55389,let there be love,sammy davis jr.,jazz,1961
+55422,how long has this been going on?,judy garland,jazz,1961
+55448,the last time i saw paris,dean martin,jazz,1962
+55455,a hundred years from today,dean martin,jazz,1962
+55465,love (your spell is everywhere),dean martin,jazz,1962
+55577,"gee baby, ain't i good to you",kenny burrell,jazz,1963
+55616,do it again,shirley horn,jazz,1963
+55761,oh baby,big john patton,jazz,1965
+55769,take the moment,tony bennett,jazz,1965
+55848,so long dearie,louis armstrong,jazz,1966
+56047,warm song,cal tjader,jazz,1968
+56177,only the lonely,aretha franklin,jazz,1969
+56233,vive y vacila,ray barretto,jazz,1969
+56301,sunny,ella fitzgerald,jazz,1970
+56323,avisale a mi contrario,roberto roena y su apollo sound,jazz,1970
+56375,only when i'm dreaming,minnie riperton,jazz,1970
+56622,pass the peas,the j.b.'s,jazz,1972
+56783,lovin' you,minnie riperton,jazz,1974
+56903,jive talkin',rufus,jazz,1975
+57037,adventures in paradise,minnie riperton,jazz,1975
+57049,feelin' that the feeling's good,minnie riperton,jazz,1975
+57069,is once enough?,jean-luc ponty,jazz,1976
+57086,no plans for tomorrow,the emotions,jazz,1976
+57119,old friend,phyllis hyman,jazz,1976
+57123,your song,al jarreau,jazz,1976
+57248,searchin' my mind,george duke,jazz,1977
+57315,sheik of araby,leon redbone,jazz,1977
+57345,no more okey doke,the meters,jazz,1977
+57380,time to kill,u.k.,jazz,1978
+57471,thirty years,u.k.,jazz,1978
+57650,oleo,grant green,jazz,1980
+57665,tomorrow,ronnie laws,jazz,1980
+57751,waiting for the axe to fall,gil scott-heron,jazz,1980
+57774,faces,"earth, wind & fire",jazz,1980
+57775,inside you,michael franks,jazz,1980
+57888,we got the love,george benson,jazz,1981
+57979,keep it in the family,deodato,jazz,1982
+57989,nuclear war,sun ra,jazz,1982
+57997,love will come someday,david sanborn,jazz,1982
+58153,tokyo,the brothers johnson,jazz,1984
+58195,too marvelous for words,stan getz,jazz,1984
+58284,19,paul hardcastle,jazz,1985
+58325,metal fatigue,allan holdsworth,jazz,1985
+58341,let me count the ways,michael franks,jazz,1985
+58345,don't be shy,michael franks,jazz,1985
+58389,fuck off and die,voivod,jazz,1986
+58447,killing technology,voivod,jazz,1987
+58546,beer barrel polka ( roll out the barrel ),the andrews sisters,jazz,1987
+58567,all the things you are,chet baker,jazz,1988
+58730,valse de bamboula,angelo debarre,jazz,1989
+58755,piano in the dark,alex bugnon,jazz,1989
+59028,where do you start,shirley horn,jazz,1992
+59045,i don't stand a ghost of a chance with you,billie holiday,jazz,1992
+59080,i've got the world on a string,tony bennett,jazz,1992
+59122,walkin',nat king cole,jazz,1993
+59157,just another brother,us3,jazz,1993
+59192,apple green,mother earth,jazz,1993
+59380,brother sister,the brand new heavies,jazz,1994
+59426,no man's land,souls of mischief,jazz,1995
+59494,dinosaur,king crimson,jazz,1995
+59560,boulevard of broken dreams,diana krall,jazz,1996
+59672,the dead flag blues,godspeed you! black emperor,jazz,1997
+59681,i am the black gold of the sun,nuyorican soul,jazz,1997
+59717,china boy,benny goodman trio,jazz,1997
+59769,#1 soul brother,pete rock,jazz,1998
+59776,fly by night,george benson,jazz,1998
+59796,a-plus,hieroglyphics,jazz,1998
+59889,smile,brian hughes,jazz,1999
+60036,cantaloop,us3,jazz,2000
+60200,who needs forever?,astrud gilberto,jazz,2001
+60268,little by little,groove armada,jazz,2001
+60362,exotica,paul taylor,jazz,2002
+60412,stay chisel,large professor,jazz,2002
+60485,american tune,eva cassidy,jazz,2003
+60577,shopping bags (she got from you),de la soul,jazz,2004
+60750,blind my mind,flunk,jazz,2004
+60755,six million ways,emanon,jazz,2005
+60857,seven nation army (feat. alice russell),nostalgia 77,jazz,2005
+60917,here is to you,stéphane pompougnac,jazz,2005
+60958,half the perfect world,madeleine peyroux,jazz,2006
+61026,runaway,jamiroquai,jazz,2006
+61126,holding on,jay soto,jazz,2007
+61130,some lessons,melody gardot,jazz,2007
+61236,the pimp and the priest,the dear hunter,jazz,2007
+61272,espera,esperanza spalding,jazz,2008
+61275,this spiteful snake,meshuggah,jazz,2008
+61393,"deep, deep",have a nice life,jazz,2008
+61415,touch,boney james,jazz,2009
+61478,listen,nekta,jazz,2009
+61497,send one your love,boney james,jazz,2009
+61503,when i fall in love (feat. chris botti),renee olstead,jazz,2009
+61507,what a difference a day made,jamie cullum,jazz,2009
+61547,what it means to be alone,the dear hunter,jazz,2009
+61562,writing on a wall,the dear hunter,jazz,2009
+61685,bienvenue dans ma vie,nikki yanofsky,jazz,2010
+61746,eden,tesseract,jazz,2011
+61942,summertime,maucoli,jazz,2012
+61972,feelin' it,david benoit,jazz,2012
+62010,you're my music,brian culbertson,jazz,2012
+62029,smile,peter appleyard,jazz,2012
+62073,blowing up the spot,fort knox five,jazz,2013
+62097,on my own,zero 7,jazz,2013
 62131,the kiss of life,the dear hunter,jazz,2013
-62874,tearz,el michels affair,jazz,2017
-63396,fu man chu,desmond dekker,reggae,1969
-63913,jah pretty face,culture,reggae,1977
-64135,gee wiz,toots & the maytals,reggae,1980
-64249,not afraid to fight version,the gladiators,reggae,1982
-64329,chant a psalm,steel pulse,reggae,1982
-64925,follower,singers and players,reggae,1989
-65327,picky picky head,wailing souls,reggae,1992
-65468,visit,311,reggae,1993
-65825,modern slavery,wailing souls,reggae,1996
-65850,terrorist,israel vibration,reggae,1996
-66560,angel eyes,beres hammond,reggae,2001
-67684,hold on,half pint,reggae,2007
-67841,the phoenix,pepper,reggae,2008
-68826,in with the newport,wheeland brothers,reggae,2012
-69212,so good,aidonia,reggae,2014
-70185,i.s.s.u.e.s.,katastro,reggae,2018
-70880,please mister postman,the beatles,rock,1963
-71087,till the end of the day,the kinks,rock,1965
-71532,sinister purpose,creedence clearwater revival,rock,1969
-71557,carry that weight,the beatles,rock,1969
-71627,make me smile,chicago,rock,1970
-71685,i'd have you anytime,george harrison,rock,1970
-71704,hey tonight,creedence clearwater revival,rock,1970
-71990,goodnight ladies,lou reed,rock,1972
-72049,fall in philadelphia,daryl hall & john oates,rock,1972
-72283,seven seas of rhye,queen,rock,1974
-72510,i don't want to talk about it,rod stewart,rock,1975
-73268,damaged goods,gang of four,rock,1979
+62150,clean the house,fat freddy's drop,jazz,2013
+62325,love is here to stay,curtis stigers,jazz,2014
+62423,whistlin,mocky,jazz,2015
+62435,kossa kossa,the souljazz orchestra,jazz,2015
+62606,blue automatic,thank you scientist,jazz,2016
+62623,dig my feeling,willie bobo,jazz,2016
+62638,mr. usher (on his way to town),the dear hunter,jazz,2016
+62650,kms (feat. atlas),anomaly,jazz,2016
+62694,born in dissonance,meshuggah,jazz,2016
+62820,miss chew,nick hakim,jazz,2017
+62897,there's a small hotel,bill charlap trio,jazz,2017
+63171,i can't give your time back,taylor mcferrin,jazz,2019
+63242,simmer down,bob marley & the wailers,reggae,1964
+63259,give me your love,the ethiopians,reggae,1966
+63324,in love with you,the heptones,reggae,1968
+63340,moonlight lover,joya landis,reggae,1968
+63360,speak no evil,the uniques,reggae,1968
+63373,drink milk,justin hinds,reggae,1969
+63400,we all are one,jimmy cliff,reggae,1969
+63415,challenge,the hippy boys,reggae,1969
+63431,why baby why,ken boothe,reggae,1970
+63460,going to a ball,dennis brown,reggae,1970
+63475,peace and love,u-roy,reggae,1971
+63480,love divine,john holt,reggae,1971
+63501,money love,slim smith,reggae,1972
+63505,my happiness,prince buster,reggae,1972
+63579,hallelujah time,the wailers,reggae,1973
+63588,sailing on,toots & the maytals,reggae,1973
+63660,dread locks,lee perry & the upsetters,reggae,1974
+63766,no sympathy,peter tosh,reggae,1976
+63806,rock away,gregory isaacs,reggae,1976
+63873,stepping free,bob andy,reggae,1977
+63938,meditation,the abyssinians,reggae,1978
+63983,lonely streets,jimmy cliff,reggae,1978
+64082,blasphemy (selah),steel pulse,reggae,1979
+64110,sticks man '80,black slate,reggae,1980
+64172,happiness,black uhuru,reggae,1980
+64214,sardonicus,ub40,reggae,1981
+64373,hold on to what you've got,dennis brown,reggae,1982
+64421,islands in the stream,owen gray,reggae,1983
+64462,many rivers to cross,ub40,reggae,1983
+64482,sunshine in the music,jimmy cliff,reggae,1983
+64519,crime don't pay,the viceroys,reggae,1984
+64670,no good,sumo,reggae,1985
+64691,revolution part one,dennis brown,reggae,1986
+64783,in my song,peter tosh,reggae,1987
+64835,blueberry hill,yellowman,reggae,1988
+64871,hello ya'll,shinehead,reggae,1988
+64973,don't turn around,aswad,reggae,1989
+65105,anambra,prince far i,reggae,1991
+65120,peace cup,macka b,reggae,1991
+65180,smoke two joints,sublime,reggae,1991
+65210,victims,steel pulse,reggae,1991
+65282,fight fi power,super cat,reggae,1992
+65288,love is the only law,ziggy marley & the melody makers,reggae,1992
+65351,jah save us,lucky dube,reggae,1992
+65378,on the inside,burning spear,reggae,1993
+65525,stab out the meat,lady saw,reggae,1994
+65561,can't beat we,bounty killer,reggae,1994
+65577,six,311,reggae,1994
+65692,see a man face,mad lion,reggae,1995
+65714,the first word in memory,carlene davis,reggae,1995
+65785,big time,capleton,reggae,1995
+66029,original man,capleton,reggae,1997
+66035,no night,culture,reggae,1997
+66152,hit him back,mr. vegas,reggae,1998
+66225,who's got the herb?,311,reggae,1998
+66276,crying games,lucky dube,reggae,1999
+66317,keep on looking up,christafari,reggae,1999
+66329,the show goes on,lucky dube,reggae,1999
+66473,blood,dispatch,reggae,2000
+66488,talking blues,the gladiators,reggae,2000
+66532,collie weed,barrington levy,reggae,2000
+66669,sick tight,311,reggae,2001
+66764,atin cu pung singsing,tropical depression,reggae,2002
+66865,"forgive, don't forget",soja,reggae,2002
+66888,give praises,sizzla,reggae,2003
+66908,rainbow in the sky,ziggy marley,reggae,2003
+66985,us and them,easy star all-stars,reggae,2003
+67027,marcus senior,burning spear,reggae,2003
+67091,rumours,gentleman,reggae,2004
+67149,bridges burned,the expendables,reggae,2004
+67481,frenzy,sanchez,reggae,2006
+67484,indian moon,chadwick stokes,reggae,2006
+67591,ready fe rock,tomorrows bad seeds,reggae,2007
+68102,95,can't hang,reggae,2009
+68135,the words,flox,reggae,2009
+68171,thick & thin,stick figure,reggae,2009
+68196,i think god smokes weed,echo movement,reggae,2009
+68221,see you again,beres hammond,reggae,2009
+68354,changed my mind,iration,reggae,2010
+68391,messiah,mavado,reggae,2010
+68396,escape,matisyahu,reggae,2010
+68744,my weekend,the holdup,reggae,2012
+68745,human nature (feat. cas haley),easy star all-stars,reggae,2012
+68763,clean,popcaan,reggae,2012
+68765,kiss no frog,lucky dube,reggae,2012
+68962,come closer,mishka,reggae,2013
+69110,let it go,michael franti & spearhead,reggae,2013
+69130,where is my mind,the supervillains,reggae,2013
+69139,hit the road jack,big youth,reggae,2014
+69210,in the mood,kbong,reggae,2014
+69521,protect me (feat. the wailing souls),new kingston,reggae,2015
+69627,burnin',tribal theory,reggae,2016
+69685,san quentin,nahko and medicine for the people,reggae,2016
+69764,summertime is in our hands,michael franti & spearhead,reggae,2016
+69931,i'm gone,kash'd out,reggae,2017
+70333,goddaughter (feat. e.n young),pepper,reggae,2019
+70389,jezebel,gene vincent & his blue caps,rock,1956
+70458,unchained melody,gene vincent & his blue caps,rock,1957
+70525,santy anno,the kingston trio,rock,1958
+70539,wimoweh,the kingston trio,rock,1959
+70563,i beg of you,elvis presley,rock,1959
+70698,coast of california,the kingston trio,rock,1961
+70722,put the blame on me,elvis presley,rock,1961
+70769,chiquita mia,chris montez,rock,1962
+71013,heart of stone,the rolling stones,rock,1965
+71198,(we ain't got) nothin' yet,the blues magoos,rock,1966
+71214,the golden road,grateful dead,rock,1967
+71276,venus in furs,the velvet underground,rock,1967
+71519,mean mr mustard,the beatles,rock,1969
+72076,out the blue,john lennon,rock,1973
+72118,the prettiest star,david bowie,rock,1973
+72574,memory motel,the rolling stones,rock,1976
+72618,love at first feel,ac/dc,rock,1976
+72931,up to my neck in you,ac/dc,rock,1978
+72966,let me entertain you,queen,rock,1978
+73104,sleigh ride,carpenters,rock,1978
+73137,beyond the realms of death,judas priest,rock,1978
+73187,bomber,motörhead,rock,1979
+73328,you can't change that,raydio,rock,1979
 73418,atrocity exhibition,joy division,rock,1980
-73496,wonderful christmastime,paul mccartney,rock,1980
-73716,night of the long knives,ac/dc,rock,1981
-73849,afraid of love,toto,rock,1982
-73858,the weapon,rush,rock,1982
-73940,devil's child,judas priest,rock,1982
-74245,yah mo b there,james ingram,rock,1983
-74712,i touch roses,book of love,rock,1986
-74892,the kiss,the cure,rock,1987
-75596,for the love of god,steve vai,rock,1990
-75922,i'll sleep when i'm dead,bon jovi,rock,1992
-76181,flute loop,beastie boys,rock,1994
-76686,redefine,incubus,rock,1997
-76768,be quiet and drive (far away),deftones,rock,1997
-76771,no surprises,radiohead,rock,1997
-76849,b.b.k.,korn,rock,1998
-77247,3 libras,a perfect circle,rock,2000
-77307,just push play,aerosmith,rock,2001
-77336,waste,staind,rock,2001
-77407,lateralus,tool,rock,2001
-77827,walls,emery,rock,2004
-78228,parting of the sensory,modest mouse,rock,2007
-78304,"of moons, birds & monsters",mgmt,rock,2007
-78307,how long,eagles,rock,2007
-78355,the world we live in,the killers,rock,2008
-79141,bones,young guns,rock,2012
-79624,love don't die,the fray,rock,2014
-79748,contagious,night riots,rock,2015
+73419,natural science,rush,rock,1980
+73445,save me,queen,rock,1980
+73525,givin the dog a bone,ac/dc,rock,1980
+73537,shoot to thrill,ac/dc,rock,1980
+73556,freewill,rush,rock,1980
+73573,metal gods,judas priest,rock,1980
+73681,spray paint,black flag,rock,1981
+73708,prodigal son,iron maiden,rock,1981
+73748,waiting for a girl like you,foreigner,rock,1981
+73778,hearts,marty balin,rock,1981
+73915,i,bad brains,rock,1982
+73931,i can let go now,michael mcdonald,rock,1982
+73986,run to the hills,iron maiden,rock,1982
+74060,three lock box,sammy hagar,rock,1982
+74066,foolin',def leppard,rock,1983
+74145,all hell's breakin' loose,kiss,rock,1983
+74242,die with your boots on,iron maiden,rock,1983
+74251,not now john,pink floyd,rock,1983
+74500,kill again,slayer,rock,1985
+74709,horror business,misfits,rock,1986
+74732,every beat of my heart,rod stewart,rock,1986
+74820,posse in effect,beastie boys,rock,1986
+74910,i fought the law,dead kennedys,rock,1987
+74913,london,the smiths,rock,1987
+75068,the dogs of war,pink floyd,rock,1987
+75237,how will i laugh tomorrow,suicidal tendencies,rock,1988
+75278,possession,bad english,rock,1989
+75327,slip of the tongue,faster pussycat,rock,1989
+75359,here i am,skid row,rock,1989
+75447,i don't have the heart,james ingram,rock,1989
+75538,is it good to you,the whispers,rock,1990
+75569,hunger strike,temple of the dog,rock,1990
+75584,love of a lifetime,firehouse,rock,1990
+75720,judgement day,van halen,rock,1991
+75734,blood sugar sex magik,red hot chili peppers,rock,1991
+75944,sweating bullets,megadeth,rock,1992
+76010,just one fix,ministry,rock,1992
+76043,numb,u2,rock,1993
+76071,attitude,guns n' roses,rock,1993
+76092,goofy's concern,butthole surfers,rock,1993
+76121,goodbye,air supply,rock,1993
+76143,crawl away,tool,rock,1993
+76311,"the more you ignore me, the closer i get",morrissey,rock,1994
+76446,too much love will kill you,queen,rock,1995
+76523,the house jack built,metallica,rock,1996
+76622,mama said,metallica,rock,1996
+76689,i've been working on the railroad,john denver,rock,1997
+76770,paranoid android,radiohead,rock,1997
+76800,walking after you,foo fighters,rock,1997
+76924,war?,system of a down,rock,1998
+77044,two worlds,phil collins,rock,1999
+77059,for whom the bell tolls,metallica,rock,1999
+77063,run,collective soul,rock,1999
+77214,back to the primitive,soulfly,rock,2000
+77250,everything in its right place,radiohead,rock,2000
+77251,hot dog,limp bizkit,rock,2000
+77372,nazi punks fuck off,dead kennedys,rock,2001
+77388,"alone, together",the strokes,rock,2001
+77480,my last serenade,killswitch engage,rock,2002
+77563,always,saliva,rock,2002
+77604,hexagram,deftones,rock,2003
+77614,where i end and you begin,radiohead,rock,2003
+77695,stillborn,black label society,rock,2003
+77714,peacekeeper,fleetwood mac,rock,2003
+77720,hole in the world,eagles,rock,2003
+77724,i fucking hate you,godsmack,rock,2003
+78028,our town,james taylor,rock,2006
+78064,glorious,muse,rock,2006
+78091,this is halloween,marilyn manson,rock,2006
+78138,wings for marie (pt 1),tool,rock,2006
+78151,this calling,all that remains,rock,2006
+78236,hold on,korn,rock,2007
+78252,flux,bloc party,rock,2007
+78351,you make me sick,egypt central,rock,2008
+78529,sleep apnea,chevelle,rock,2009
+78606,after the storm,mumford & sons,rock,2009
+78626,dust bowl dance,mumford & sons,rock,2009
+78862,remind me who i am,jason gray,rock,2011
+78863,keep your eyes open,needtobreathe,rock,2011
+78929,the stand,mother mother,rock,2011
+78933,indescribable,chris tomlin,rock,2011
+78962,halo,soil,rock,2011
+78992,blessings,laura story,rock,2011
+79143,stray heart,green day,rock,2012
+79161,soldiers,otherwise,rock,2012
+79230,anthem of the lonely,nine lashes,rock,2012
+79299,2 rocking chairs,jon bellion,rock,2013
+79309,afterlife,arcade fire,rock,2013
+79327,the enemy,andrew belle,rock,2013
+79356,everlasting arms,vampire weekend,rock,2013
+79415,my calling,ajr,rock,2013
+79526,my demons,starset,rock,2014
+79572,a haunted house,jon bellion,rock,2014
+79867,ditmas,mumford & sons,rock,2015
 79882,shalala,moses gunn collective,rock,2015
-79981,white lie,the lumineers,rock,2016
-80106,happy pills,weathers,rock,2016
-80253,window,magic giant,rock,2017
-80460,i won't let you go,switchfoot,rock,2017
-80794,hollow,barns courtney,rock,2019
-80816,move to memphis,a-ha,rock,2019
-80909,kids in '99,death cab for cutie,rock,2019
-81066,f**k the haters,lil cuete,hip hop,2002
-81220,still struggling,raekwon,hip hop,2007
-81263,ghost stories,hmd,hip hop,2008
-81266,club on lock,the sugarhill gang,hip hop,2008
-81334,how ya like me now (re-recorded / remastered),kool moe dee,hip hop,2009
+79939,miracle aligner,the last shadow puppets,rock,2016
+80161,happiness,needtobreathe,rock,2016
+80332,losing all sense,grizzly bear,rock,2017
+80403,in cold blood,alt-j,rock,2017
+80471,church,fall out boy,rock,2018
+80521,torn in two,breaking benjamin,rock,2018
+80858,times won’t change me,circa waves,rock,2019
+80876,walk forever by my side,twin shadow,rock,2019
+80902,dreamin (with blackbear),the score,rock,2019
+80907,bad liar – stripped,imagine dragons,rock,2019
+80931,flower moon (feat. steve lacy),vampire weekend,rock,2019
+80970,the blueprint,boogie down productions,hip hop,1989
+80972,breath control,boogie down productions,hip hop,1989
+80989,hip hop junkies,nice & smooth,hip hop,1991
+80991,k.i.s.s. (keep it simple stupid),diamond & the psychotic neurotics,hip hop,1992
+81011,check it out,lighter shade of brown,hip hop,1992
+81073,future rockers,aceyalone,hip hop,2002
+81102,the crow,mr. lil one,hip hop,2003
+81121,show your ass,j-kwon,hip hop,2004
+81235,this is what it is,krs-one,hip hop,2007
+81307,i'm shinin,j-kwon,hip hop,2009
+81326,tipsy 09 (radio edit),j-kwon,hip hop,2009
+81330,money machine,ying yang twins,hip hop,2009
+81340,i'm not havin’ it (re-recorded / remastered),positive k,hip hop,2009
+81402,la legge del più forte,gli inquilini,hip hop,2010
 81505,21st century crisis,shyheim,hip hop,2011
-81593,ag ypodohi (welcome),agnostoi gnostoi,hip hop,2012
-81663,hip hop,meek mill,hip hop,2013
-81709,south muzik,lil wayne,hip hop,2014
-81868,my favorite ladies,mf doom,hip hop,2016
-81996,where they @,dead obies,hip hop,2017
-82217,hop out (remix) (feat. curren$y),lndn drgs,hip hop,2018
-82259,live on stage,dilated peoples,hip hop,2018
-82261,funky for you,nice & smooth,hip hop,2018
-82284,let's talk about it (feat. clipse),jermaine dupri,hip hop,2019
-82299,my philosophy,boogie down productions,hip hop,2019
-82352,3 a.m.,jeezy,hip hop,2019
-82357,brooklyn to t-neck,das efx,hip hop,2019
-82383,hop out (feat. senistar),lil' flip,hip hop,2019
+81559,my block,lloyd banks,hip hop,2012
+81563,quiero más,lex luthorz,hip hop,2012
+81723,"big up new york (feat. black moon, smif-n-wessun, mad lion, funkmaster flex)",krs-one,hip hop,2014
+81736,sneaker juice,abhi the nomad,hip hop,2014
+81764,l.a.m.m.,sweatshop union,hip hop,2015
+81813,come clean,jeru the damaja,hip hop,2015
+81829,garcon a la pipe,abstract rude,hip hop,2015
+82001,whip it (feat. philippe wynne),the treacherous three,hip hop,2017
+82027,real thing,tory lanez,hip hop,2017
+82038,sunroof,boogie,hip hop,2017
+82048,trap paris,machine gun kelly,hip hop,2017
+82078,get silly,v.i.c.,hip hop,2017
+82146,anarchy,busta rhymes,hip hop,2018
+82156,i go on,mc lyte,hip hop,2018
+82184,count me in,lil yachty,hip hop,2018
+82185,trippy,lil wayne,hip hop,2018
+82186,la raza,kid frost,hip hop,2018
+82224,lakhs,shah rule,hip hop,2018
+82309,let's get it started,mc hammer,hip hop,2019
+82314,hustla,nappy roots,hip hop,2019
+82321,guerillas in tha mist,da lench mob,hip hop,2019
+82323,the ghetto,too $hort,hip hop,2019
+82398,dance (a$$),big sean,hip hop,2019
+82401,tres delinquentes,delinquent habits,hip hop,2019

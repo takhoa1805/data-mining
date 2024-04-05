@@ -48,7 +48,11 @@ em.set_key(newB, 'id')
 
 
 # DOWNSAMPLE FILES
-A1, B1 = em.down_sample(newA,newB,300,1,show_progress=True)
+A1, B1 = em.down_sample(newA,newB,1000,1,show_progress=True)
+
+# NO NEED DOWN SAMPLING
+# A1,B1=newA,newB
+
 print("File length after down sampling: ")
 print(len(A1))
 print(len(B1))
