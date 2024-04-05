@@ -22,10 +22,16 @@ Cab = ab.block_tables(A, B, 'Song_Name', 'Song_Name', l_output_attrs=['Song_Name
 
 # CHOOSE SUITABLE BLOCKER
 # print(Cob.head(10)) ===> THIS ONE IS NOT SUITABLE
-print(Cab.head(10)) 
+# print(Cab.head(10)) 
 
 # LABEL
 S = em.sample_table(Cab,len(Cab))
 # SAVE LABEL FILE
 S.to_csv('../sampled/labeled.csv')
-# G = em.label_table(S,'is_match')
+
+# FIXING MANUALLY AND RE-LOAD FILE
+S_labeled = em.read_csv_metadata('../sampled/S_labeled.csv',key='_id')
+print(S_labeled.head(10))
+
+# FINISH LABELING
+G = em.label_table(S_labeled, label_column_name='label')
