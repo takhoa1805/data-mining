@@ -45,12 +45,23 @@ lg = em.LogRegMatcher(name='LogReg', random_state=0)
 ln = em.LinRegMatcher(name='LinReg')
 
 
-# Select the best ML matcher using CV
-result = em.select_matcher([dt, rf, svm, ln, lg], table=H, 
-        exclude_attrs=['_id', 'ltable_id', 'rtable_id', 'label'],
-        k=2,
-        target_attr='label', metric_to_select_matcher='precision', random_state=0)
-result['cv_stats']
+# # Select the best ML matcher using CV
+# result = em.select_matcher([dt, rf, svm, ln, lg], table=H, 
+#         exclude_attrs=['_id', 'ltable_id', 'rtable_id', 'label'],
+#         k=5,
+#         target_attr='label', metric_to_select_matcher='precision', random_state=0)
+# result['cv_stats']
 
-# print(result)
+# # print(result)
+
+
+# Get the attributes to be projected while training
+attrs_to_be_excluded = []
+attrs_to_be_excluded.extend(['_id', 'ltable_id', 'rtable_id', 'label'])
+attrs_to_be_excluded.extend(attrs_from_table)
+
+# Train using feature vectors from the labeled data.
+rf.fit(table=H, exclude_attrs=attrs_to_be_excluded, target_attr='label')
+
+
 
