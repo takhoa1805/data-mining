@@ -74,48 +74,72 @@ em.print_eval_summary(eval_result)
 
 
 ################################# PRODUCTION #################################
+# READ FILES
+tableA = em.read_csv_metadata('../production/preprocessed_tableA.csv',key='id')
+tableB = em.read_csv_metadata('../production/preprocessed_tableB.csv',key='id')
 
-def integrate():
-    # # MERGE 2 TABLES
-    # table = tableA.merge(tableB, left_on='ltable_id', right_on='rtable_id')
-    # table.columns = ['ltable_id','rtable_id','ltable_Song_Name','ltable_Artist_Name','ltable_Released','rtable_Song_Name','rtable_Artist_Name','rtable_Released']
+def table_filter(df, id_list):
+    filtered_df = df[~df['id'].isin(id_list)]
+    return filtered_df
 
-    tableA = em.read_csv_metadata('../data/tableA.csv',key='id')
-    tableB = em.read_csv_metadata('../data/tableB.csv',key='id')
+def integrate(tableA, tableB,lg):
 
-    ## Create new data contains some attributes
-    tableA = tableA[['id', 'Song_Name', 'Artist_Name','Released']]
-    tableB = tableB[['id', 'track_name', 'artist_name','release_date']]
-    
-    # ## Rename columns 
-    tableA.columns = ['id', 'Song_Name', 'Artist_Name', 'Released']
-    tableB.columns = ['id', 'Song_Name', 'Artist_Name', 'Released']
+    # print(tableA.head())
+    # print(tableB.head())
 
-    ## Drop NA values
-    tableA = tableA.dropna()
-    tableB = tableB.dropna()
-
-    # CONVERT A TABLE COLUMNS TO LOWERCASE IF DATA IS STRNG TYPE
-    tableA['Song_Name'] = tableA['Song_Name'].str.lower()
-    tableB['Artist_Name'] = tableB['Artist_Name'].str.lower()
-
-    # Set key attribute for new data
-    em.set_key(tableA, 'id')
-    em.set_key(tableB, 'id')
-
-    ## sort the data by id
-    tableA = tableA.sort_values(by=['id'])
-    tableB = tableB.sort_values(by=['id'])
-
-
-    ## Convert A1 released time to year
-    tableA['Released'] = pd.to_datetime(tableA['Released']).dt.year.astype(int)
-
-    
-
+    # BLOCKING PROCESS
     ab = em.AttrEquivalenceBlocker()
-    C = ab.block_tables(tableA, tableB, 'Song_Name', 'Song_Name', l_output_attrs=['Song_Name','Artist_Name','Released'], r_output_attrs=['Song_Name','Artist_Name','Released'])
-    # print(C.head())
+
+    # GENERATE CANDIDATE SET
+    Cab = ab.block_tables(tableA,tableB,'Song_Name','Song_Name',l_output_attrs=['Song_Name','Artist_Name','Released'], r_output_attrs=['Song_Name','Artist_Name','Released'])
+    Cab['label'] = -1
+    Cab.to_csv('../production/candidate.csv')
+
+    # LOAD MATCHING DATA
+    G = em.read_csv_metadata('../production/candidate.csv',
+                             key = '_id',
+                             ltable=tableA,
+                             rtable=tableB,
+                             fk_ltable='ltable_id',
+                             fk_rtable='rtable_id')
+
+
+    feature_table = em.get_features_for_matching(tableA,tableB,False)
+
+    # PREDICTION ON L
+    L = em.extract_feature_vecs(G,
+                                feature_table=feature_table,
+                                attrs_after='label',
+                                show_progress=False)
+
+    predictions = lg.predict(table=L,
+                             exclude_attrs=['_id', 'ltable_id', 'rtable_id','label'],
+                             append=True,
+                             target_attr='predicted',
+                             inplace=False)
     
 
-integrate()
+    predictions.to_csv('../production/predict.csv')
+
+
+    # CLEAN PREDICTION TABLE, WE ONLY NEED LTABLE_ID AND IT'S PREDICTION
+    # WE CHOSE TO CUT OFF A RECORD FROM TABLE A IF THERE'S OVERLAP ON THAT RECORD
+    predictions = predictions[['ltable_id','predicted']]
+
+    # REMOVE FROM PREDICTIONS TABLE ROWS THAT IS PREDICTED NOT OVERLAP
+    # KEEP ID VALUE ONLY
+    condition = (predictions['predicted'] == 0)
+    predictions = predictions[~condition]
+    predictions = predictions[['ltable_id']]
+    predictions = predictions['ltable_id'].values
+
+    # REMOVE FROM TABLE_A RECORDS THAT IS PREDICTED OVERLAPPED WITH TABLE_B
+    tableA = table_filter(tableA.copy(),predictions)
+
+    # JOIN 2 TABLES
+    table = pd.concat([tableA,tableB],ignore_index=True)
+    table.to_csv('../production/result.csv')
+
+
+integrate(tableA,tableB,lg)
+
