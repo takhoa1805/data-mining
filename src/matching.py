@@ -16,8 +16,7 @@ G = em.read_csv_metadata('../sample/labeled.csv',
 # print(G.head(len(G)))
 
 # GENERATE FEATURES
-blocking_features = em.get_features_for_blocking(A,B,True)
-matching_features = em.get_features_for_matching(A,B,True)
+matching_features = em.get_features_for_matching(A,B,validate_inferred_attr_types=False)
 # print(matching_features.head(10))
 
 
@@ -25,10 +24,33 @@ matching_features = em.get_features_for_matching(A,B,True)
 attrs_from_table = ['ltable_Song_Name', 'ltable_Artist_Name', 'ltable_Released',
                     'rtable_Song_Name', 'rtable_Artist_Name', 'rtable_Released']
 
-H = em.extract_feature_vecs(G,
+# Split S into development set (I) and evaluation set (J)
+IJ = em.split_train_test(G, train_proportion=0.5, random_state=0)
+I = IJ['train']
+J = IJ['test']
+
+# Convert the I into a set of feature vectors using F
+H = em.extract_feature_vecs(I,
                             feature_table=matching_features,
                             attrs_before = attrs_from_table,
                             attrs_after='label',
                             show_progress=True)
+# print(H)
 
-print(H)
+# Create a set of ML-matchers
+dt = em.DTMatcher(name='DecisionTree', random_state=0)
+svm = em.SVMMatcher(name='SVM', random_state=0)
+rf = em.RFMatcher(name='RF', random_state=0)
+lg = em.LogRegMatcher(name='LogReg', random_state=0)
+ln = em.LinRegMatcher(name='LinReg')
+
+
+# Select the best ML matcher using CV
+result = em.select_matcher([dt, rf, svm, ln, lg], table=H, 
+        exclude_attrs=['_id', 'ltable_id', 'rtable_id', 'label'],
+        k=2,
+        target_attr='label', metric_to_select_matcher='precision', random_state=0)
+result['cv_stats']
+
+# print(result)
+
