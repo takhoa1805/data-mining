@@ -1,0 +1,231 @@
+,_id,ltable_id,rtable_id,ltable_Song_Name,ltable_Artist_Name,ltable_Released,rtable_Song_Name,rtable_Artist_Name,rtable_Released
+0,0,191,44962,with love,hilary duff,2008,with love,thin lizzy,1979
+1,1,446,44377,give me love,ed sheeran,2011,give me love,santana,1977
+2,2,465,56597,friends,ed sheeran,2014,friends,cymande,1972
+3,3,511,10189,she,ed sheeran,2011,she,edie brickell & new bohemians,1988
+4,4,511,12177,she,ed sheeran,2011,she,green day,1994
+5,5,511,74723,she,ed sheeran,2011,she,misfits,1986
+6,6,744,61828,heartbreaker,justin bieber,2013,heartbreaker,crazy p,2011
+7,7,759,57885,hold tight,justin bieber,2013,hold tight,change,1981
+8,8,899,26272,hold on,mandy musgrave,2006,hold on,rosanne cash,1979
+9,9,899,46011,hold on,mandy musgrave,2006,hold on,santana,1983
+10,10,899,67684,hold on,mandy musgrave,2006,hold on,half pint,2007
+11,11,899,69154,hold on,mandy musgrave,2006,hold on,kbong,2014
+12,12,899,69989,hold on,mandy musgrave,2006,hold on,the elovaters,2018
+13,13,899,72937,hold on,mandy musgrave,2006,hold on,ian gomm,1978
+14,14,899,76100,hold on,mandy musgrave,2006,hold on,pearl jam,1993
+15,15,899,78236,hold on,mandy musgrave,2006,hold on,korn,2007
+16,16,950,1707,white christmas,taylor swift,2007,white christmas,andy williams,1963
+17,17,950,54626,white christmas,taylor swift,2007,white christmas,bing crosby,1954
+18,18,950,55203,white christmas,taylor swift,2007,white christmas,dean martin,1959
+19,19,983,52653,home,dierks bentley,2012,home,aynsley lister,2013
+20,20,983,76684,home,dierks bentley,2012,home,depeche mode,1997
+21,21,1011,81329,close your eyes,dan + shay,2014,close your eyes,j-kwon,2009
+22,22,1016,79038,tempest,deftones,2015,tempest,deftones,2012
+23,23,1019,3310,together,"disclosure , sam smith , nile rodgers & james napier",2013,together,harry nilsson,1968
+24,24,1048,3310,together,"sam smith , nile rodgers , disclosure & jimmy napes",2013,together,harry nilsson,1968
+25,25,1451,790,call me,shinedown,2008,call me,johnny mathis,1959
+26,26,1451,7996,call me,shinedown,2008,call me,blondie,1981
+27,27,1451,64699,call me,shinedown,2008,call me,ken boothe,1986
+28,28,1864,7794,love song,p!nk,2003,love song,simple minds,1981
+29,29,1864,69193,love song,p!nk,2003,love song,etana,2014
+30,30,1885,81632,do your thing,ozomatli,2011,do your thing,todd terry,2013
+31,31,1891,49608,trouble,p!nk,2003,trouble,widespread panic,2001
+32,32,1891,70514,trouble,p!nk,2003,trouble,elvis presley,1958
+33,33,2016,1707,white christmas,the henningsens,2014,white christmas,andy williams,1963
+34,34,2016,54626,white christmas,the henningsens,2014,white christmas,bing crosby,1954
+35,35,2016,55203,white christmas,the henningsens,2014,white christmas,dean martin,1959
+36,36,2058,35430,laughed until we cried,jason aldean,2007,laughed until we cried,jason aldean,2007
+37,37,2064,79505,let go,ryan adams,2014,let go,rac,2014
+38,38,2097,79505,let go,ryan adams,2014,let go,rac,2014
+39,39,2104,7287,voices,ryan adams,2014,voices,cheap trick,1979
+40,40,2447,21153,silent night,johnny cash,2007,silent night,the louvin brothers,1961
+41,41,2447,55475,silent night,johnny cash,2007,silent night,bing crosby,1962
+42,42,2776,26024,take your time,sam hunt,2015,take your time,jefferson starship,1978
+43,43,2920,9380,i believe,yolanda adams,2003,i believe,tears for fears,1985
+44,44,2920,12533,i believe,yolanda adams,2003,i believe,blessid union of souls,1995
+45,45,2920,23893,i believe,yolanda adams,2003,i believe,dolly parton,1971
+46,46,2920,30309,i believe,yolanda adams,2003,i believe,diamond rio,1991
+47,47,2920,69172,i believe,yolanda adams,2003,i believe,soja,2014
+48,48,2983,80114,kids,style of eye,2014,kids,onerepublic,2016
+49,49,3176,21153,silent night,the temptations,2008,silent night,the louvin brothers,1961
+50,50,3176,55475,silent night,the temptations,2008,silent night,bing crosby,1962
+51,51,3217,741,winter wonderland,tony bennett & lady gaga,2014,winter wonderland,connie francis,1959
+52,52,3217,1986,winter wonderland,tony bennett & lady gaga,2014,winter wonderland,darlene love,1963
+53,53,3217,49840,winter wonderland,tony bennett & lady gaga,2014,winter wonderland,ella fitzgerald,2002
+54,54,3217,54389,winter wonderland,tony bennett & lady gaga,2014,winter wonderland,the andrews sisters,1951
+55,55,3217,59291,winter wonderland,tony bennett & lady gaga,2014,winter wonderland,kenny g,1994
+56,56,3291,18559,we dem boyz,wiz khalifa,2014,we dem boyz,wiz khalifa,2014
+57,57,3885,17115,marry me,jason derulo,2014,marry me,train,2010
+58,58,3885,36522,marry me,jason derulo,2014,marry me,martina mcbride,2011
+59,59,3931,14830,breathing,jason derulo,2011,breathing,yellowcard,2003
+60,60,4188,10807,how long will i love you,ellie goulding,2013,how long will i love you,the waterboys,1990
+61,61,4256,16232,one of those nights,shawn mendes,2015,one of those nights,the cab,2008
+62,62,4372,34500,days go by,keith urban,2015,days go by,keith urban,2004
+63,63,4372,69389,days go by,keith urban,2015,days go by,peach fur,2015
+64,64,4425,17691,summer love,one direction,2012,summer love,one direction,2012
+65,65,4544,34418,these are the days,keith urban,2004,these are the days,keith urban,2004
+66,66,4544,60742,these are the days,keith urban,2004,these are the days,jamie cullum,2004
+67,67,4581,59893,for you,keith urban,2012,for you,brian hughes,1999
+68,68,4581,77376,for you,keith urban,2012,for you,staind,2001
+69,69,4639,72875,the stranger,b ' © la fleck & the flecktones,1996,the stranger,billy joel,1977
+70,70,4751,18109,wrecking ball,miley cyrus,2014,wrecking ball,miley cyrus,2013
+71,71,4751,52214,wrecking ball,miley cyrus,2014,wrecking ball,joe walsh,2012
+72,72,4751,78428,wrecking ball,miley cyrus,2014,wrecking ball,mother mother,2008
+73,73,4752,18082,unconditionally,katy perry,2014,unconditionally,katy perry,2013
+74,74,4755,76708,demons,imagine dragons,2014,demons,guster,1997
+75,75,4755,79183,demons,imagine dragons,2014,demons,imagine dragons,2012
+76,76,4773,18016,come & get it,selena gomez,2013,come & get it,selena gomez,2013
+77,77,4783,17557,heart attack,demi lovato,2013,heart attack,trey songz,2012
+78,78,4802,20090,paradise,tiìçsto & dyro,2013,paradise,bazzi,2019
+79,79,4802,69327,paradise,tiìçsto & dyro,2013,paradise,magic!,2014
+80,80,4840,20030,stay awake,ellie goulding & madeon,2013,stay awake,dean lewis,2019
+81,81,4888,46519,burning up,ne-yo,2012,burning up,bad company,1986
+82,82,4934,16839,undo it,carrie underwood,2009,undo it,carrie underwood,2009
+83,83,4938,10652,this time,carrie underwood,2009,this time,tracy chapman,1989
+84,84,4938,39554,this time,carrie underwood,2009,this time,uncle kracker,2019
+85,85,4938,46332,this time,carrie underwood,2009,this time,ufo,1985
+86,86,4942,67247,play on,carrie underwood,2009,play on,john brown's body,2005
+87,87,4977,36012,my heart is open,keith urban,2011,my heart is open,keith urban,2009
+88,88,4990,66578,alone,holly williams,2009,alone,the expendables,2001
+89,89,4990,68378,alone,holly williams,2009,alone,the green,2010
+90,90,4999,37216,a.m.,chris young,2013,a.m.,chris young,2013
+91,91,5010,9735,welcome to the occupation,cold war kids,2008,welcome to the occupation,r.e.m.,1987
+92,92,5066,14832,always,david guetta & jd davis,2007,always,blink-182,2003
+93,93,5066,27386,always,david guetta & jd davis,2007,always,firefall,1982
+94,94,5066,77563,always,david guetta & jd davis,2007,always,saliva,2002
+95,95,5075,81339,intro,disclosure,2014,intro,african underground,2009
+96,96,5075,81592,intro,disclosure,2014,intro,a.k.r.a.,2012
+97,97,5118,18079,started from the bottom,drake,2013,started from the bottom,drake,2013
+98,98,5130,16836,money to blow,"birdman , lil wayne & drake",2009,money to blow,birdman,2009
+99,99,5164,31063,my life,billy joel,2013,my life,iris dement,1993
+100,100,5164,40265,my life,billy joel,2013,my life,chuck willis,1958
+101,101,5164,49511,my life,billy joel,2013,my life,methrone,2000
+102,102,5164,67268,my life,billy joel,2013,my life,warrior king,2005
+103,103,5165,46889,ave maria,fletcher sheridan,2013,ave maria,aretha franklin,1987
+104,104,5165,55461,ave maria,fletcher sheridan,2013,ave maria,bing crosby,1962
+105,105,5171,14809,i believe i can fly,ken jeong,2013,i believe i can fly,me first and the gimme gimmes,2003
+106,106,5172,40435,fever,the cramps,2013,fever,little willie john,1958
+107,107,5172,47217,fever,the cramps,2013,fever,joe cocker,1989
+108,108,5172,47240,fever,the cramps,2013,fever,the cramps,1989
+109,109,5172,50923,fever,the cramps,2013,fever,patti drew,2007
+110,110,5172,52868,fever,the cramps,2013,fever,the black keys,2014
+111,111,5172,56005,fever,the cramps,2013,fever,la lupe,1967
+112,112,5172,63791,fever,the cramps,2013,fever,junior byles,1976
+113,113,5174,82352,3 a.m.,eminem,2009,3 a.m.,jeezy,2019
+114,114,5188,81507,deja vu,eminem,2009,deja vu,killah priest,2011
+115,115,5220,41653,someone to love me,diddy - dirty money,2010,someone to love me,solomon burke,1964
+116,116,5237,3921,save me,nicki minaj,2010,save me,wilson pickett,1969
+117,117,5237,6151,save me,nicki minaj,2010,save me,joan armatrading,1976
+118,118,5237,13636,save me,nicki minaj,2010,save me,aimee mann,1999
+119,119,5237,16896,save me,nicki minaj,2010,save me,nicki minaj,2010
+120,120,5237,26663,save me,nicki minaj,2010,save me,dave mason,1980
+121,121,5237,52436,save me,nicki minaj,2010,save me,hanni el khatib,2013
+122,122,5237,54045,save me,nicki minaj,2010,save me,danielle nicole,2018
+123,123,5237,58078,save me,nicki minaj,2010,save me,al jarreau,1983
+124,124,5237,80856,save me,nicki minaj,2010,save me,skillet,2019
+125,125,5241,23980,here i am,nicki minaj,2010,here i am,dolly parton,1971
+126,126,5245,72160,funeral for a friend / love lies bleeding,elton john,2014,funeral for a friend / love lies bleeding,elton john,1973
+127,127,5265,24537,grey seal,the band perry,2014,grey seal,the band perry,1973
+128,128,5270,46338,harmony,zac brown band,2014,harmony,slade,1985
+129,129,5370,17758,wide awake,katy perry,2013,wide awake,katy perry,2012
+130,130,5373,27800,try,p!nk,2013,try,marshall crenshaw,1983
+131,131,5379,17785,ho hey,the lumineers,2013,ho hey,the lumineers,2012
+132,132,5439,18204,run boy run,woodkid,2014,run boy run,woodkid,2013
+133,133,5439,21719,run boy run,woodkid,2014,run boy run,lee hazlewood,1963
+134,134,5477,78492,the outsiders,eric church,2014,the outsiders,needtobreathe,2009
+135,135,5485,37846,dark side,eric church,2014,dark side,eric church,2014
+136,136,5491,74081,stand back,susan tedeschi & derek trucks,2014,stand back,stevie nicks,1983
+137,137,5497,79358,queen of hearts,pat monahan,2014,queen of hearts,we the kings,2013
+138,138,5509,23518,these days,jackson browne & gregg allman,2014,these days,tom rush,1970
+139,139,5534,54153,keep on,eric church,2011,keep on,southern avenue,2019
+140,140,5534,62936,keep on,eric church,2011,keep on,alfa mist,2017
+141,141,5578,64421,islands in the stream,dolly parton & kenny rogers,2015,islands in the stream,owen gray,1983
+142,142,5584,26451,all the gold in california,larry gatlin & the gatlin brothers,2015,all the gold in california,larry gatlin & the gatlin brothers,1979
+143,143,5587,15648,behind closed doors,charlie rich,2015,behind closed doors,rise against,2006
+144,144,5614,15513,i slept with someone in fall out boy and all i got was this stupid song written about me,fall out boy,2005,i slept with someone in fall out boy and all i got was this stupid song written about me,fall out boy,2005
+145,145,5635,57168,overture,danny elfman,2006,overture,average white band,1976
+146,146,5655,78091,this is halloween,marilyn manson,2006,this is halloween,marilyn manson,2006
+147,147,5672,61548,over the rainbow,drew barrymore,2014,over the rainbow,melody gardot,2009
+148,148,5675,1167,love is a many splendored thing,terry crews & junior mambazo,2014,love is a many splendored thing,shirley bassey,1961
+149,149,5675,60500,love is a many splendored thing,terry crews & junior mambazo,2014,love is a many splendored thing,nat king cole,2003
+150,150,5726,18459,anything goes,florida georgia line,2014,anything goes,florida georgia line,2014
+151,151,5726,35807,anything goes,florida georgia line,2014,anything goes,randy houser,2008
+152,152,5726,54780,anything goes,florida georgia line,2014,anything goes,helen merrill,1955
+153,153,5726,55159,anything goes,florida georgia line,2014,anything goes,tony bennett,1959
+154,154,5730,11357,smile,florida georgia line,2014,smile,timi yuro,1992
+155,155,5730,55720,smile,florida georgia line,2014,smile,judy garland,1964
+156,156,5730,62942,smile,florida georgia line,2014,smile,gregory porter,2017
+157,157,5734,13132,angel,florida georgia line,2014,angel,sarah mclachlan,1997
+158,158,5737,41276,every night,florida georgia line,2014,every night,fats domino,1963
+159,159,5770,26879,she and i,toby keith,2013,she and i,alabama,1980
+160,160,5776,78490,if i die tomorrow,florida georgia line,2014,if i die tomorrow,mötley crüe,2009
+161,161,5780,18219,afraid,aaron lewis,2014,afraid,the neighbourhood,2013
+162,162,5784,74236,looks that kill,lauren jenkins,2014,looks that kill,mötley crüe,1983
+163,163,5792,17113,in my head,jason derulo,2010,in my head,jason derulo,2010
+164,164,5792,78762,in my head,jason derulo,2010,in my head,mayday parade,2010
+165,165,5794,15285,what if,jason derulo,2010,what if,coldplay,2005
+166,166,5797,35129,fallen,jason derulo,2010,fallen,casey donahew,2006
+167,167,5799,79358,queen of hearts,jason derulo,2010,queen of hearts,we the kings,2013
+168,168,5808,19520,fall,justin bieber,2012,fall,davido,2017
+169,169,5819,28553,santa claus is coming to town,justin bieber,2011,santa claus is coming to town,george strait,1986
+170,170,5842,939,somebody to love,justin bieber,2010,somebody to love,bobby darin,1960
+171,171,5842,17065,somebody to love,justin bieber,2010,somebody to love,justin bieber,2010
+172,172,5842,72637,somebody to love,justin bieber,2010,somebody to love,queen,1976
+173,173,5888,4577,without you,keith urban,2011,without you,harry nilsson,1971
+174,174,5888,6716,without you,keith urban,2011,without you,heart,1977
+175,175,5888,24625,without you,keith urban,2011,without you,the doobie brothers,1973
+176,176,5888,36280,without you,keith urban,2011,without you,keith urban,2010
+177,177,5888,41484,without you,keith urban,2011,without you,manfred mann,1964
+178,178,5888,53855,without you,keith urban,2011,without you,anderson east,2018
+179,179,5888,75394,without you,keith urban,2011,without you,mötley crüe,1989
+180,180,5934,80004,stars,nelly furtado,2010,stars,skillet,2016
+181,181,5946,78830,courageous,olivia newton-john & melinda schneider,2011,courageous,casting crowns,2011
+182,182,5960,25870,friday night,eric paslay,2014,friday night,dennis wilson,1977
+183,183,5965,17939,wasting all these tears,cassadee pope,2014,wasting all these tears,cassadee pope,2013
+184,184,6034,17536,judas,lady gaga,2014,judas,lady gaga,2011
+185,185,6039,15992,bad kids,lady gaga,2014,bad kids,black lips,2007
+186,186,6056,82072,dope,lady gaga,2013,dope,t.i.,2017
+187,187,6074,58147,freak,lana del rey,2015,freak,swans,1983
+188,188,6083,76577,born to die,lana del rey,2012,born to die,choking victim,1996
+189,189,6105,5150,bel air,lana del rey,2012,bel air,can,1973
+190,190,6119,61642,victory,danny elfman,2014,victory,gramatik,2010
+191,191,6131,20819,the other woman,lana del rey,2014,the other woman,jean shepard,1959
+192,192,6131,40655,the other woman,lana del rey,2014,the other woman,nina simone,1959
+193,193,6136,76577,born to die,lana del rey,2012,born to die,choking victim,1996
+194,194,6141,17982,take back the night,justin timberlake,2013,take back the night,tryhardninja,2013
+195,195,6161,52332,love is blindness,jack white,2013,love is blindness,jack white,2012
+196,196,6161,75745,love is blindness,jack white,2013,love is blindness,u2,1991
+197,197,6195,38442,kiss goodbye,little big town,2010,kiss goodbye,cody johnson,2016
+198,198,6201,20450,all over again,little big town,2010,all over again,johnny cash,1955
+199,199,6262,23161,today i started loving you again,kristy lee cook,2014,today i started loving you again,merle haggard,1968
+200,200,6262,50256,today i started loving you again,kristy lee cook,2014,today i started loving you again,bettye swann,2004
+201,201,6265,27184,you take me for granted,thompson square,2014,you take me for granted,george jones,1981
+202,202,6277,33288,sing me back home,ben haggard,2014,sing me back home,the flying burrito brothers,2000
+203,203,6302,37952,your side of town,maddie & tae,2015,your side of town,maddie & tae,2015
+204,204,6306,37985,downside of growing up,maddie & tae,2015,downside of growing up,maddie & tae,2015
+205,205,6395,74094,in the beginning,k'naan,2008,in the beginning,mötley crüe,1983
+206,206,6402,71669,i believe in you,nick jonas,2012,i believe in you,neil young,1970
+207,207,6414,16957,this is our song,"joe jonas , demi lovato , alyson stoner & nick jonas",2010,this is our song,demi lovato,2010
+208,208,6420,501,diana,one direction,2013,diana,frankie lymon,1958
+209,209,6421,18199,midnight memories,one direction,2013,midnight memories,one direction,2013
+210,210,6428,18004,through the dark,one direction,2013,through the dark,one direction,2013
+211,211,6445,45528,carry on,fun .,2013,carry on,j.j. cale,1981
+212,212,6629,13863,out of the woods,taylor swift,2014,out of the woods,nickel creek,2000
+213,213,6629,18265,out of the woods,taylor swift,2014,out of the woods,taylor swift,2014
+214,214,6689,16874,the good life,hannah montana,2009,the good life,three days grace,2009
+215,215,6689,55565,the good life,hannah montana,2009,the good life,shirley horn,1963
+216,216,6689,56119,the good life,hannah montana,2009,the good life,sammy davis jr.,1968
+217,217,6701,39013,spotlight,hannah montana,2009,spotlight,upchurch,2018
+218,218,6701,78559,spotlight,hannah montana,2009,spotlight,mutemath,2009
+219,219,6702,15207,game over,steve rushton,2009,game over,lil' flip,2004
+220,220,6702,18014,game over,steve rushton,2009,game over,falling in reverse,2013
+221,221,6727,31081,tell me why,taylor swift,2008,tell me why,wynonna,1993
+222,222,6727,70976,tell me why,taylor swift,2008,tell me why,the beatles,1964
+223,223,6731,16966,the best day,taylor swift,2008,the best day,atmosphere,2010
+224,224,6739,17991,love in the sky,the weeknd,2013,love in the sky,the weeknd,2013
+225,225,6755,17835,loft music,the weeknd,2012,loft music,the weeknd,2012
+226,226,6765,17732,rolling stone,the weeknd,2012,rolling stone,the weeknd,2012
+227,227,6812,18435,i lived,onerepublic,2014,i lived,onerepublic,2014
+228,228,6850,17327,hopes & dreams,wiz khalifa,2011,hopes & dreams,wiz khalifa,2011
+229,229,6854,17422,no sleep,wiz khalifa,2011,no sleep,wiz khalifa,2011
